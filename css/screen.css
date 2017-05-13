@@ -1,3 +1,6 @@
+::selection {
+  background-color: #ff4e4e; }
+
 html, body {
   padding: 0;
   margin: 0;
@@ -62,7 +65,17 @@ a {
   color: #000;
   text-decoration: none; }
   .post h1 a:hover {
-    text-decoration: underline; }
+    border-bottom: 1px solid #ff4e4e; }
+.post h2 {
+  margin-top: 50px;
+  font-weight: bold;
+  margin-bottom: 20px; }
+  .post h2 a {
+    color: black; }
+    .post h2 a:hover {
+      border-bottom: 1px solid #ff4e4e; }
+.post p em {
+  color: #999; }
 .post time {
   padding: 0 0 20px 0;
   display: block; }
@@ -82,24 +95,31 @@ a {
       .post .recipe-overview li {
         display: inline-block; } }
 @media (min-width: 900px) {
-  .post .recipe-contents {
+  .post .show-notes {
     display: flex; } }
-.post .recipe-contents ul {
+.post .show-notes ul {
   padding: 0; }
-  .post .recipe-contents ul li {
+  .post .show-notes ul li {
     list-style-type: none; }
-    .post .recipe-contents ul li:before {
+    .post .show-notes ul li:before {
       content: '\00bb';
       color: #ff4e4e;
       padding-right: 0.5em; }
-.post .recipe-contents ol {
+  .post .show-notes ul a {
+    color: #000;
+    text-decoration: none; }
+    .post .show-notes ul a:link {
+      border-bottom: 1px dotted #999; }
+    .post .show-notes ul a:hover {
+      border-bottom: 1px solid #ff4e4e; }
+.post .show-notes ol {
   padding: 0; }
-  .post .recipe-contents ol li {
+  .post .show-notes ol li {
     counter-increment: step-counter;
     list-style-type: none;
     position: relative;
     margin-left: 34px; }
-    .post .recipe-contents ol li:before {
+    .post .show-notes ol li:before {
       content: counter(step-counter);
       margin-right: 0px;
       background-color: #ff4e4e;
@@ -111,11 +131,11 @@ a {
       top: -2px;
       width: 25px;
       text-align: center; }
-.post .recipe-contents .ingredients {
+.post .show-notes .albums {
   width: 250px;
   padding: 0 43px 0 0; }
 @media (min-width: 900px) {
-  .post .recipe-contents .directions {
+  .post .show-notes .playlist {
     flex: 1; } }
 
 .post + .post {
