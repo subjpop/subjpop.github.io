@@ -38,6 +38,13 @@ footer {
   text-align: center;
   padding: 20px 0;
   font-size: .8em; }
+  footer a {
+    color: #000;
+    text-decoration: none; }
+    footer a:link {
+      border-bottom: 1px dotted #999; }
+    footer a:hover {
+      border-bottom: 1px solid #ff4e4e; }
 
 hr {
   border: 0;
@@ -76,6 +83,13 @@ a {
       border-bottom: 1px solid #ff4e4e; }
 .post p em {
   color: #999; }
+.post p a {
+  color: #000;
+  text-decoration: none; }
+  .post p a:link {
+    border-bottom: 1px dotted #999; }
+  .post p a:hover {
+    border-bottom: 1px solid #ff4e4e; }
 .post time {
   padding: 0 0 20px 0;
   display: block; }
