@@ -204,6 +204,13 @@ a {
 .pagination {
   text-align: center;
   margin: 50px 0 0 0; }
+  .pagination a {
+    color: #000;
+    text-decoration: none; }
+    .pagination a:link {
+      border-bottom: 1px dotted #999; }
+    .pagination a:hover {
+      border-bottom: 1px solid #ff4e4e; }
 
 .take-me {
   float: right; }
