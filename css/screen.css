@@ -66,13 +66,13 @@ a {
   text-decoration: none; }
   .post h1 a:hover {
     border-bottom: 1px solid #ff4e4e; }
-.post h2 {
+.post h2, .post h3 {
   margin-top: 50px;
   font-weight: bold;
   margin-bottom: 20px; }
-  .post h2 a {
+  .post h2 a, .post h3 a {
     color: black; }
-    .post h2 a:hover {
+    .post h2 a:hover, .post h3 a:hover {
       border-bottom: 1px solid #ff4e4e; }
 .post p em {
   color: #999; }

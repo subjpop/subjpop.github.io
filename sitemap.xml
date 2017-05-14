@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/no%20music,%20no%20idol/2017/01/27/idol-music-award-2016-indie/</loc>
+<lastmod>2017-01-27T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/no%20music,%20no%20idol/2017/02/05/idol-music-award-2016-major/</loc>
+<lastmod>2017-02-05T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/special/2017/02/08/rip-matsuno-rina/</loc>
 <lastmod>2017-02-08T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/brand%20new%20band/2017/02/10/wednesday-campanella-1/</loc>
+<lastmod>2017-02-10T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/brand%20new%20band/2017/02/10/wednesday-campanella-2/</loc>
+<lastmod>2017-02-10T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/new%20releases/2017/03/03/new-releases-4/</loc>
+<lastmod>2017-03-03T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/new%20releases/2017/03/31/new-releases-5/</loc>
+<lastmod>2017-03-31T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/track-makers%20tracking/2017/04/21/seiho-new-age-electronic-musician/</loc>
