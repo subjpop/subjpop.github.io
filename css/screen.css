@@ -7,7 +7,7 @@ html, body {
   line-height: 1.8em; }
 
 body, input, textarea {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Fira Sans', 'Helvetica Neue', Arial, sans-serif;
   color: #222;
   -webkit-font-smoothing: antialiased; }
 
@@ -217,6 +217,21 @@ a {
   .take-me .button {
     padding-top: 10px;
     padding-bottom: 10px; }
+
+.notice {
+  padding-bottom: 10px;
+  margin-bottom: 10px; }
+  .notice h4 {
+    font-weight: bold;
+    font-size: 1em;
+    color: #1a1a1a;
+    text-indent: 0px;
+    clear: both;
+    width: 600px;
+    margin-bottom: 0px; }
+  .notice p {
+    color: #7d7d7d;
+    font-size: 0.85em; }
 
 .cta {
   text-align: center;
