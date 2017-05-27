@@ -83,10 +83,9 @@ a {
     .post h2 a:hover, .post h3 a:hover {
       border-bottom: 1px solid #ff4e4e; }
 .post h3:before {
-  content: "‖";
+  content: "▍";
   color: #ff4e4e;
-  font-weight: bold;
-  padding-right: 0.5em; }
+  font-weight: bold; }
 .post p em {
   color: #7d7d7d; }
 .post p a {
