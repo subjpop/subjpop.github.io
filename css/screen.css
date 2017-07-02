@@ -2,15 +2,17 @@
 ::selection {
   background-color: #ff4e4e; }
 
-html, body {
+html,
+body {
   padding: 0;
   margin: 0;
   line-height: 1.8em; }
 
-body, input, textarea {
-  font-family: 'Fira Sans', 'Helvetica Neue', Arial, sans-serif;
-  color: #222;
-  -webkit-font-smoothing: antialiased; }
+body,
+input,
+textarea {
+  font-family: PingFang SC, Hiragino Sans GB, Helvetica Neue, Microsoft Yahei, WenQuanYi Micro Hei, sans-serif;
+  color: #222; }
 
 h1 {
   font-size: 1.8em;
