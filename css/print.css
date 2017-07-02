@@ -7,10 +7,18 @@ h1 {
   margin: 0 0 10px 0; }
 
 body {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: PingFang SC, Hiragino Sans GB, Helvetica Neue, Microsoft Yahei, WenQuanYi Micro Hei, sans-serif;
   font-size: .8em; }
 
-.sidebar, .sharing, footer, .recipe-body, nav, img, time, .take-me, .cta {
+.sidebar,
+.sharing,
+footer,
+.recipe-body,
+nav,
+img,
+time,
+.take-me,
+.cta {
   display: none; }
 
 .recipe-overview {
@@ -34,7 +42,8 @@ body {
   .recipe-contents .directions {
     flex: 1; }
 
-ul, ol {
+ul,
+ol {
   padding-left: 17px;
   margin: 0; }
 
