@@ -92,12 +92,12 @@ a {
   font-weight: bold; }
 .post p em {
   color: #7d7d7d; }
-.post p a {
+.post p a:not(.button) {
   color: #000;
   text-decoration: none; }
-  .post p a:link {
+  .post p a:not(.button):link {
     border-bottom: 1px dotted #7d7d7d; }
-  .post p a:hover {
+  .post p a:not(.button):hover {
     border-bottom: 1px solid #ff4e4e; }
 .post time {
   padding: 0 0 20px 0;
