@@ -13,7 +13,7 @@ body {
 .sidebar,
 .sharing,
 footer,
-.recipe-body,
+.episode-body,
 nav,
 img,
 time,
@@ -21,25 +21,25 @@ time,
 .cta {
   display: none; }
 
-.recipe-overview {
+.episode-overview {
   padding: 0;
   margin: 0 0 30px 0; }
-  .recipe-overview svg {
+  .episode-overview svg {
     position: relative;
     top: 6px; }
-  .recipe-overview span {
+  .episode-overview span {
     margin: 0 18px 0 3px; }
-  .recipe-overview li {
+  .episode-overview li {
     padding: 0;
     margin: 0;
     display: inline-block; }
 
-.recipe-contents {
+.episode-contents {
   display: flex; }
-  .recipe-contents .ingredients {
+  .episode-contents .ingredients {
     width: 200px;
     padding: 0 43px 0 0; }
-  .recipe-contents .directions {
+  .episode-contents .directions {
     flex: 1; }
 
 ul,

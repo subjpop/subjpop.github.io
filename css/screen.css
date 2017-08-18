@@ -102,20 +102,20 @@ a {
 .post time {
   padding: 0 0 20px 0;
   display: block; }
-.post .recipe-overview {
+.post .episode-overview {
   padding: 0;
   margin: 0; }
-  .post .recipe-overview svg {
+  .post .episode-overview svg {
     position: relative;
     top: 6px; }
-  .post .recipe-overview span {
+  .post .episode-overview span {
     margin: 0 18px 0 3px; }
-  .post .recipe-overview li {
+  .post .episode-overview li {
     list-style: none;
     padding: 0;
     margin: 0; }
     @media (min-width: 900px) {
-      .post .recipe-overview li {
+      .post .episode-overview li {
         display: inline-block; } }
 @media (min-width: 900px) {
   .post .show-notes {
@@ -391,17 +391,17 @@ nav {
   .sidebar.push {
     padding-top: 72px; } }
 
-.recipes {
+.episodes {
   display: flex;
   flex-wrap: wrap; }
-  .recipes .recipe {
+  .episodes .episode {
     flex: 1 0 300px;
     height: 200px;
     display: inline-block;
     background-position: center;
     background-size: cover;
     margin: 5px 7px; }
-    .recipes .recipe a {
+    .episodes .episode a {
       width: 100%;
       height: 100%;
       display: block;
@@ -414,11 +414,11 @@ nav {
       transition: all 0.2s ease;
       font-size: 1.1em;
       font-weight: 700; }
-      .recipes .recipe a span {
+      .episodes .episode a span {
         position: absolute;
         bottom: 5px;
         width: 100%;
         left: 0;
         text-shadow: 1px 1px 1px #000; }
-      .recipes .recipe a:hover {
+      .episodes .episode a:hover {
         background: none; }
