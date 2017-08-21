@@ -15,16 +15,20 @@ textarea {
   color: #222; }
 
 h1 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   margin: 0;
   padding: 0;
   line-height: 1.3em; }
+  @media (min-width: 900px) {
+    h1 {
+      font-size: 1.8em; } }
 
 h2 {
   font-size: 1.4em; }
 
 time {
-  color: #7d7d7d; }
+  color: #7d7d7d;
+  font-size: 1.0em; }
 
 header {
   text-align: center;
@@ -51,7 +55,8 @@ footer {
 
 hr {
   border: 0;
-  border-top: 1px solid #eee; }
+  border-bottom: 1px solid #eee;
+  padding: 10px; }
 
 a {
   text-decoration: none;
@@ -100,7 +105,7 @@ a {
   .post p a:not(.button):hover {
     border-bottom: 1px solid #ff4e4e; }
 .post time {
-  padding: 0 0 20px 0;
+  padding: 0 0 15px 0;
   display: block; }
 .post .episode-overview {
   padding: 0;
@@ -125,7 +130,7 @@ a {
   .post .show-notes ul li {
     list-style-type: none; }
     .post .show-notes ul li:before {
-      content: '\00bb';
+      content: '»';
       color: #ff4e4e;
       padding-right: 0.5em; }
   .post .show-notes ul a {
@@ -147,11 +152,11 @@ a {
       margin-right: 0px;
       background-color: #ff4e4e;
       color: white;
-      /* padding: 1px 7px; */
       font-size: .7em;
+      font-weight: bold;
       position: absolute;
       left: -34px;
-      top: -2px;
+      top: 1px;
       width: 25px;
       text-align: center; }
 .post .show-notes .albums {
