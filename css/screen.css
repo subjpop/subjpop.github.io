@@ -26,9 +26,15 @@ h1 {
 h2 {
   font-size: 1.4em; }
 
-time {
+.entry-meta {
+  display: inline-block;
   color: #7d7d7d;
-  font-size: 1.0em; }
+  font-size: 1.0em;
+  margin: 0.3em 0 0.3em 0; }
+  .entry-meta a {
+    color: #7d7d7d; }
+    .entry-meta a:hover {
+      border-bottom: 1px solid #ff4e4e; }
 
 header {
   text-align: center;
@@ -106,7 +112,7 @@ a {
     border-bottom: 1px solid #ff4e4e; }
 .post time {
   padding: 0 0 15px 0;
-  display: block; }
+  display: in-line; }
 .post .episode-overview {
   padding: 0;
   margin: 0; }
