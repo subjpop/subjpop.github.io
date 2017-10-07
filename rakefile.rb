@@ -7,6 +7,7 @@ end
 
 task(:build) do
   puts "start building"
+  sh('fish')
   sh('subjpop')
 end
 
