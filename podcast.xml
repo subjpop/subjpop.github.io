@@ -5,12 +5,12 @@
     <itunes:author>SUBJPOP</itunes:author>
     <copyright></copyright>
     <language>zh-cn</language>
-    <pubDate>Fri, 20 Oct 2017 10:05:34 -0400</pubDate>
-    <lastBuildDate>Fri, 20 Oct 2017 10:05:34 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Oct 2017 10:43:18 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Oct 2017 10:43:18 -0400</lastBuildDate>
     <itunes:category text="Music">
       
     </itunes:category>
-    <itunes:explicit>Yes</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://subjpop.github.io/images/favicon.png"/>
     <itunes:subtitle>SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.</itunes:subtitle>
     <description>SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.</description>
@@ -24,7 +24,7 @@
     
     <item>
       <title>Vol. 35 日本のRap进行时 3.o</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>davidchill</itunes:author>
       <itunes:duration>3049</itunes:duration>
       <pubDate>Fri, 20 Oct 2017 00:00:00 -0400</pubDate>
@@ -56,8 +56,33 @@
       </a>
       <p>主播</p>
       <ul> <li>大胃麒麟 </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：大胃麒麟</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>PUNPEE「P.U.N.P.(Communication)」(from 1st album『Modern Times』2017/10/04)</li>
+  <li>🎙️</li>
+  <li>RAU DEF「STARZ feat.PUNPEE」(from 4th album『UNISEX』2017/9/27)</li>
+  <li>韻踏合組合「ポップコーン」(from 9th album 『王手』2017/9/9)</li>
+  <li>ZORN「いい感じ」(from 7th album『柴又日記』2017/9/13)</li>
+  <li>🎙️</li>
+  <li>HIT「IF (feat. 椿)」(from 1st EP『Be!! - EP』2017/7/6)</li>
+  <li>Chelmico「DRIVE」(from EP『EP』2017/9/6)</li>
+  <li>🎙️</li>
+  <li>kiLLa「kiLLaに気をつけな」(from 2nd EP 『kiLLa vol.2 Summer』2017/7/17)</li>
+  <li>Ittō x Jinmenusagi「うちゅじん feat. Savvy Williams」(from joint album 『Eternal Timer』2017/9/6)</li>
+  <li>🎙️</li>
+  <li>ILLNANDES &amp; ENDRUN「CZN’PASS (feat. ISSUGI)」(from joint album 『CZN’PASS』2017/9/6)</li>
+  <li>I-DeA「花籠 feat. NORIKIYO」(from 4th album 『SWEET HELL』2017/8/9)</li>
+  <li>🎙️</li>
+  <li>Qiezi Mabo 「Star Beach Love」(from 1st single『Star Beach Love』2017/7/7)</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/10/20/japanese-rapping-3/">
+        <img src="https://subjpop.github.io/images/banners/35.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>大胃麒麟 </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2631097193564891142</guid>
       <category>Music</category>
       <enclosure length="3049" url="http://cdn5.lizhi.fm/audio/2017/10/19/2631097193564891142_hd.mp3" type="audio/mpeg"/>
@@ -65,7 +90,7 @@
     
     <item>
       <title>Vol. 34 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 III</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2647</itunes:duration>
       <pubDate>Fri, 22 Sep 2017 00:00:00 -0400</pubDate>
@@ -92,8 +117,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>ACE「朧月〜三つ巴〜 feat. R-指定, 輪入道」（from 1st album『STRAIGHT』2015/09/23）</li>
+  <li>DJ Krush「若輩 feat. R-指定」（from 1st rap album『軌跡』2017/06/07）</li>
+  <li>🎙️</li>
+  <li>Creepy Nuts「みんなちがって、みんないい。」（from 1st mini album『たりないふたり』2016/01/20）</li>
+  <li>Creepy Nuts「未来予想図」（from 2nd mini album『助演男優賞』2017/02/01）</li>
+  <li>🎙️</li>
+  <li>DOTAMA「神さまになった少年」（from rap sci-fi novel album『ホーリーランド』2011/01/19）</li>
+  <li>DOTAMA「音楽ワルキューレ 2」（from 2nd album『ニューアルバム』2015/08/12</li>
+  <li>🎙️</li>
+  <li>Jinmenusagi「Silence Of The Goatz feat. DOTAMA」（from 2nd album『ME2!』2013/01/16）</li>
+  <li>DOTAMA「こんなぶっ壊れた国で」（from 2nd album『ニューアルバム』2015/08/12）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/09/22/free-style-dungeon-monster-3/">
+        <img src="https://subjpop.github.io/images/banners/34.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2624027675254166022</guid>
       <category>Music</category>
       <enclosure length="2647" url="http://cdn5.lizhi.fm/audio/2017/09/11/2624027675254166022_hd.mp3" type="audio/mpeg"/>
@@ -101,7 +146,7 @@
     
     <item>
       <title>Vol. 33 我们来听新唱片......and no Hip Hop！！！！！！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>3360</itunes:duration>
       <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
@@ -130,8 +175,30 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>Shinichi Atobe（跡部進一）「Regret」（from 3rd album『From The Heart, It’s A Start, A Work Of Art』2017/05/21）</li>
+  <li>🎙️</li>
+  <li>のん「エイリアンズ」（from digital single『エイリアンズ』2017/07/19）</li>
+  <li>🎙️</li>
+  <li>Negicco「愛は光」（from 2nd collection『Negicco 2011～2017 -BEST- 2』2017/07/20）</li>
+  <li>水曜日のカンパネラ「ピカソ」（from digital single『ピカソ』2017/07/28）</li>
+  <li>RYUTist「サンディー」（from 3rd album『柳都芸妓』2017/08/01）</li>
+  <li>🎙️</li>
+  <li>一十三十一「Varadero via L.A.」（from 9th album『ECSTASY』2017/07/19）</li>
+  <li>ナツ・サマー「ふたりが隣にいること」（from 1st album『Hello, future day』2017/07/05）</li>
+  <li>🎙️</li>
+  <li>3776「見えない《LINK MIX》Case of イトウヨシノリ」（from 1st Mix EP of season#4『公開実験《LINK MIX》』2017/08/28）</li>
+  <li>・・・・・・・・・「ねぇ」（from 2nd single『CD』2017/08/16）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2017/09/01/new-releases-7/">
+        <img src="https://subjpop.github.io/images/banners/33.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2621842720157413894</guid>
       <category>Music</category>
       <enclosure length="3360" url="http://cdn5.lizhi.fm/audio/2017/08/31/2621842720157413894_hd.mp3" type="audio/mpeg"/>
@@ -139,7 +206,7 @@
     
     <item>
       <title>Vol. 32 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 II</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>3015</itunes:duration>
       <pubDate>Fri, 18 Aug 2017 00:00:00 -0400</pubDate>
@@ -167,8 +234,29 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>Tiji Jojo「Deep End」（from mixtape「BAD HOP ALL DAY」2016/09/15）</li>
+  <li>T-Pablow, YZEER「Life Style」（from mixtape「BAD HOP ALL DAY」2016/09/15）</li>
+  <li>🎙️</li>
+  <li>YZEER, T-Pablow「Ink Boyz」（from mixtape「BAD HOP ALL DAY」2016/09/15）</li>
+  <li>T-Pablow, Yellow Pato「Liberty」（from mixtape「BAD HOP ALL DAY」2016/09/15）</li>
+  <li>🎙️</li>
+  <li>サイプレス上野とロベルト吉野「イントロ」（from album「コンドル」2015/09/15）</li>
+  <li>サイプレス上野とロベルト吉野「Bay Dream ～フロム課外授業～」（from album「ドリーム」2007/01/26）</li>
+  <li>サイプレス上野とロベルト吉野「横浜~藤沢 酒呑みラップ feat. Deep Sawer」（from album「ドリーム」2007/01/26）</li>
+  <li>🎙️</li>
+  <li>サイプレス上野とロベルト吉野「音楽遊び feat. Shingo☆西成」（from album「ドリーム」2007/01/26）</li>
+  <li>サイプレス上野とロベルト吉野「WONDER WHEEL」（from album「WONDER WHEEL」2009/01/21）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/08/18/free-style-dungeon-monster-2/">
+        <img src="https://subjpop.github.io/images/banners/32.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2619527691989684742</guid>
       <category>Music</category>
       <enclosure length="3015" url="http://cdn5.lizhi.fm/audio/2017/08/18/2619527691989684742_hd.mp3" type="audio/mpeg"/>
@@ -176,7 +264,7 @@
     
     <item>
       <title>Vol. 31 日本のRap进行时 2.o</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>davidchill</itunes:author>
       <itunes:duration>2749</itunes:duration>
       <pubDate>Fri, 04 Aug 2017 00:00:00 -0400</pubDate>
@@ -206,8 +294,31 @@
       </a>
       <p>主播</p>
       <ul> <li>大胃麒麟 </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：大胃麒麟</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>KOPERU &amp; ISSEI 「Movie Right At You」(from 1st joint album『カマトト』2017/6/14)</li>
+  <li>🎙️</li>
+  <li>TWINKLE+ 「Midnight Run (TYO)」(from 1st album『JAPANESE YEDO MONKEY』2017/6/7)</li>
+  <li>MONYPETZJNKMN 「SPACY」(from 1st album『磊』2017/5/17)</li>
+  <li>YDIZZY 「YES」(from 1st album『DIZZiNESS』2017/6/7)</li>
+  <li>🎙️</li>
+  <li>鈴木真海子 「Contact」(from 1st EP 『DEEP GREEN』2017/6/21)</li>
+  <li>🎙️</li>
+  <li>JAZZ DOMMUNISTERS「あたらしい悲しいお知らせ feat. I.C.I, OMSB」(from 2nd album 『Cupid &amp; Bataille, Dirty Microphone』2017/6/7)</li>
+  <li>🎙️</li>
+  <li>Paranel「僕が死んでも誰も気づかない」(from 3rd album 『スーサイド』2017/6/21)</li>
+  <li>VaVa 「Time Walker」(from 1st rap album 『low mind boi』2017/6/21)</li>
+  <li>🎙️</li>
+  <li>スチャダラパーとEGO-WRAPPIN&amp;`&amp; 「ミクロボーイとマグロガール」(from joint single 『ミクロボーイとマグロガール』2017/5/10)</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/08/04/japanese-rapping-2/">
+        <img src="https://subjpop.github.io/images/banners/31.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>大胃麒麟 </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2613825092105386502</guid>
       <category>Music</category>
       <enclosure length="2749" url="http://cdn5.lizhi.fm/audio/2017/07/18/2613825092105386502_hd.mp3" type="audio/mpeg"/>
@@ -215,7 +326,7 @@
     
     <item>
       <title>Vol. 30 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 I</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2699</itunes:duration>
       <pubDate>Fri, 21 Jul 2017 00:00:00 -0400</pubDate>
@@ -242,8 +353,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>掌幻、CHICO CARLITO &amp; 焚巻「フリースタイル・ダンジョン 2016」（from single「フリースタイル・ダンジョン 2016」2016/05/18）</li>
+  <li>CHICO CARLITO「朔」（from single「朔」2016/10/21）+「Intro」（from album「Carlito’s Way」2016/12/07）</li>
+  <li>🎙️</li>
+  <li>CHICO CARLITO「一陽来復 feat Chouji &amp; 唾奇」（from album「Carlito’s Way」2016/12/07）</li>
+  <li>MC漢 &amp; DJ琥珀「I’m a ￥ plant」（from album「MURDARATION」2012/08/08）+「This is Freestyle」（from album「MURDARATION」2012/08/08）</li>
+  <li>🎙️</li>
+  <li>漢「漢流の極論」（from album「導 みちしるべ」2005/01/26）</li>
+  <li>DJ Krush「猛者-Mosa- featuring KAN」（from remix album「STEPPING STONES The Self-Remixed Best -lyricism-」2006/03/24）</li>
+  <li>🎙️</li>
+  <li>MC 漢「スキミング」（from album「MURDARATION (ACAPPELLA VERSION)」2013/04/10）</li>
+  <li>MC漢 &amp; DJ琥珀「光と影の街」（from album「MURDARATION」2012/08/08）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/07/21/free-style-dungeon-monster-1/">
+        <img src="https://subjpop.github.io/images/banners/30.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2613681554297353222</guid>
       <category>Music</category>
       <enclosure length="2699" url="http://cdn5.lizhi.fm/audio/2017/07/18/2613681554297353222_hd.mp3" type="audio/mpeg"/>
@@ -251,7 +382,7 @@
     
     <item>
       <title>Vol. 29 宇多田光之后・Kaneko Ayano</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2043</itunes:duration>
       <pubDate>Fri, 07 Jul 2017 00:00:00 -0400</pubDate>
@@ -278,8 +409,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>カネコアヤノ「とがる」（from 2nd EP『ひかれあい』2017/04/26）</li>
+  <li>カネコアヤノ「さよーならあなた」（from 1st EP『さよーならあなた』2016/12/07</li>
+  <li>🎙️</li>
+  <li>カネコアヤノ「スイミング」（from 1st album 『来世はアイドル』2014/05/14）</li>
+  <li>カネコアヤノ「朝になって夢からさめて」（from 2nd EP『ひかれあい』2017/04/26）</li>
+  <li>🎙️</li>
+  <li>カネコアヤノ「春」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）</li>
+  <li>カネコアヤノ「週明け」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）</li>
+  <li>🎙️</li>
+  <li>カネコアヤノ「きみをしりたい」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）</li>
+  <li>カネコアヤノ「グレープフルーツ」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/after%20hikki/2017/07/07/after-hikki-kaneko-ayano/">
+        <img src="https://subjpop.github.io/images/banners/29.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2608598166298483718</guid>
       <category>Music</category>
       <enclosure length="2043" url="http://cdn5.lizhi.fm/audio/2017/06/20/2608598166298483718_hd.mp3" type="audio/mpeg"/>
@@ -287,7 +438,7 @@
     
     <item>
       <title>Vol. 28 KANDYTOWN・糖镇City-Hiphop 🍬</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>davidchill</itunes:author>
       <itunes:duration>2339</itunes:duration>
       <pubDate>Fri, 23 Jun 2017 00:00:00 -0400</pubDate>
@@ -316,8 +467,30 @@
       </a>
       <p>主播</p>
       <ul> <li>大胃麒麟 </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：大胃麒麟</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>DJ PMX「Neon Wave feat. GOTTZ, MUD &amp; IO (KANDYTOWN)」（from 3rd original album『THE ORIGINAL III』2017/5/17）</li>
+  <li>Ryohu「Blue Rose」（from 1st EP『All in One - EP』2017/4/5）</li>
+  <li>🎙️</li>
+  <li>DONY JOINT「Good Times feat. Ryohu」（from 1st album『A 03 Tale, ¥ella』2017/5/24）</li>
+  <li>IO「City Never Sleep」（from 1st album『Soul Long』2016/2/14）</li>
+  <li>🎙️</li>
+  <li>YOUNG JUJU「DownTown Boyz feat. Ryohu」（from 1st album『juzzy 92&amp;`&amp;』2016/11/23）</li>
+  <li>菊丸「Lift my soul feat. Tree Mason」（from 2nd album『ON THE KORNER』2016/7/6）</li>
+  <li>🎙️</li>
+  <li>KANDYTOWN「ODQ」（from 1st street album『BLAKK MOTEL』2015/1/25）</li>
+  <li>KANDYTOWN「Good Die Young」（from 1st major album『KANDYTOWN』2016/11/2）</li>
+  <li>🎙️</li>
+  <li>KANDYTOWN「Ain’t No Holding Back」（from 1st major album『KANDYTOWN』2016/11/2）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/06/23/kandytown/">
+        <img src="https://subjpop.github.io/images/banners/28.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>大胃麒麟 </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2608459664339857926</guid>
       <category>Music</category>
       <enclosure length="2339" url="http://cdn5.lizhi.fm/audio/2017/06/19/2608459664339857926_hd.mp3" type="audio/mpeg"/>
@@ -325,7 +498,7 @@
     
     <item>
       <title>Vol. 27 我们来听新唱片！！！！！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>3012</itunes:duration>
       <pubDate>Fri, 09 Jun 2017 00:00:00 -0400</pubDate>
@@ -355,8 +528,31 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>963「ろすとぷらねっと」（from 3rd single『ろすとぷらねっと』2017/04/05）</li>
+  <li>Maison book girl「end of Summer dream」（from 2nd album『image』2017/04/05）</li>
+  <li>🎙️</li>
+  <li>Yogee New Waves「Ride on Wave」（from 2nd album『WAVES』2017/05/17）</li>
+  <li>There There Theres「RadicalHead」（from 1st single『Upstairs Down』2017/05/08）</li>
+  <li>🎙️</li>
+  <li>ゆるふわギャング「Fuckin’ Car」（from 1st album『Mars Ice House』2017/04/08）</li>
+  <li>Ittō「Inside Out」（from 3rd album『I』2017/05/10）</li>
+  <li>🎙️</li>
+  <li>Cornelius「あなたがいるなら」（from 6th album『Mellow Waves』2017/06/28）</li>
+  <li>私立恵比寿中学「感情電車」（from 4st album『エビクラシー』2017/05/31）</li>
+  <li>🎙️</li>
+  <li>DJみそしるとMCごはん「とりのから揚げ」（from soundtrack『ごちそんぐDJの音楽』2017/03/29）</li>
+  <li>清竜人25「ねえねえ…」（from 2nd album『WIFE』2017/04/12）​</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2017/06/09/new-releases-6/">
+        <img src="https://subjpop.github.io/images/banners/27.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2606449192303099398</guid>
       <category>Music</category>
       <enclosure length="3012" url="http://cdn5.lizhi.fm/audio/2017/06/09/2606449192303099398_hd.mp3" type="audio/mpeg"/>
@@ -364,7 +560,7 @@
     
     <item>
       <title>Vol. 26 宇多田光之后・ZOMBIE-CHANG</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2303</itunes:duration>
       <pubDate>Fri, 26 May 2017 00:00:00 -0400</pubDate>
@@ -391,8 +587,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>ZOMBIE-CHANG「I CAN&amp;`&amp;T GET TO SLEEP」（from 专辑『GANG!』2017/03/03）</li>
+  <li>ZOMBIE-CHANG「TARINAI」（from 专辑『GANG!』2017/03/03）</li>
+  <li>🎙️</li>
+  <li>ZOMBIE-CHANG「WEEKEND」（from 专辑『GANG!』2017/03/03）</li>
+  <li>ZOMBIE-CHANG「KOURAKUEN」（from 专辑『GANG!』2017/03/03）</li>
+  <li>🎙️</li>
+  <li>ZOMBIE-CHANG「summer time UKR remix」（from EP『恋のバカンス』2015/08/25）</li>
+  <li>YOSA「夜明け前 feat. ZOMBIE-CHANG &amp; SALU」（from 专辑『Orion』2016/04/06）</li>
+  <li>🎙️</li>
+  <li>ZOMBIE-CHANG「SEMETE KANASHII TOKINIWA」（from 专辑『ZOMBIE-CHANGE』2016/01/20）</li>
+  <li>ZOMBIE-CHANG「KAWAII BABY」（from 专辑『GANG!』2017/03/03）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/after%20hikki/2017/05/26/after-hikki-zombie-chang/">
+        <img src="https://subjpop.github.io/images/banners/26.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2603228810785270790</guid>
       <category>Music</category>
       <enclosure length="2303" url="http://cdn5.lizhi.fm/audio/2017/05/22/2603228810785270790_hd.mp3" type="audio/mpeg"/>
@@ -400,7 +616,7 @@
     
     <item>
       <title>Vol. 25 日本のRap进行时 🎤</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>davidchill</itunes:author>
       <itunes:duration>2708</itunes:duration>
       <pubDate>Fri, 12 May 2017 00:00:00 -0400</pubDate>
@@ -429,8 +645,30 @@
       </a>
       <p>主播</p>
       <ul> <li>大胃麒麟 </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：大胃麒麟</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>ゆるふわギャング 「Escape To The Paradise」 (from 1st album 「Mars Ice House」 2017/4/5)</li>
+  <li>ISSUGI 「Heat Haze feat. Mr.PUG」 (from joint album 「DAY and NITE」 2016/11/2)</li>
+  <li>🎙️</li>
+  <li>Moe and ghosts × 空間現代 「不通」 (from joint album 「RAP PHENOMENON」 2016/4/6)</li>
+  <li>あっこゴリラ 「黄熱病 -YELLOW FEVER- × STUTS」(from 1st Single 「黄熱病 -YELLOW FEVER- × STUTS」 2017/2/16)</li>
+  <li>🎙️</li>
+  <li>IO「Notis」 (from 2nd album 「Mood Blue」 2017/4/19)</li>
+  <li>唾奇 x Sweet William「South side ghetto」 (from joint album 「Jasmine」 2017/4/19)</li>
+  <li>🎙️</li>
+  <li>TOKYO HEALTH CLUB 「MAD-ONNA ft. ZOMBIE-CHANG」 (from 3rd album 「VIBRATION」2016/6/8)</li>
+  <li>パブリック娘。 「25mプール」 (from 1st album 「初恋とはなんぞや」 2016/7/6)</li>
+  <li>🎙️</li>
+  <li>狐火 「昨日までのベスト」(from best album 「昨日までのベスト」  2017/2/15)</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/05/12/japanese-rapping/">
+        <img src="https://subjpop.github.io/images/banners/25.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>大胃麒麟 </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2600656490447357446</guid>
       <category>Music</category>
       <enclosure length="2708" url="http://cdn5.lizhi.fm/audio/2017/05/08/2600656490447357446_hd.mp3" type="audio/mpeg"/>
@@ -438,7 +676,7 @@
     
     <item>
       <title>Vol. 24 Seiho・日本新生代电音奇男</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>minami</itunes:author>
       <itunes:duration>2644</itunes:duration>
       <pubDate>Fri, 21 Apr 2017 00:00:00 -0400</pubDate>
@@ -466,8 +704,29 @@
       </a>
       <p>主播</p>
       <ul> <li>Pumpkinhead </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Pumpkinhead</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>Seiho「Prologue」 ( From Seiho’s Official Site )</li>
+  <li>Seiho「Plastic」（from  3rd album「Collapse」2016/5/18）</li>
+  <li>Seiho「Bird Scat」（from  EP「UNREAL」2017/03/18）</li>
+  <li>🎙️</li>
+  <li>Seiho「I Feel Rave」（from  2nd  album「ABSTRKTSEX」2013/6/19）</li>
+  <li>Seiho「Gynoid Feminism」（from  2nd  album「ABSTRKTSEX」2013/6/19）</li>
+  <li>Sugar’s Campaign「香港生活」（from 1st  album「FRIENDS」2015/1/21）</li>
+  <li>🎙️</li>
+  <li>三浦大知「Cry &amp; Fight」（from  19th  Single「Cry &amp; Fight」2016/03/30）</li>
+  <li>矢野顕子「Tong Poo」（from  27th  album「Welcome to Jupiter」2015/09/16）</li>
+  <li>🎙️</li>
+  <li>Seiho &amp; sehiorobo「Adore」（from  Seiho’s SoundCloud  2016/04/23）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/track-makers%20tracking/2017/04/21/seiho-new-age-electronic-musician/">
+        <img src="https://subjpop.github.io/images/banners/24.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Pumpkinhead </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2596230659799331846</guid>
       <category>Music</category>
       <enclosure length="2644" url="http://cdn5.lizhi.fm/audio/2017/04/15/2596230659799331846_hd.mp3" type="audio/mpeg"/>
@@ -475,7 +734,7 @@
     
     <item>
       <title>Vol. 23 我们来听新唱片！！！！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2578</itunes:duration>
       <pubDate>Fri, 31 Mar 2017 00:00:00 -0400</pubDate>
@@ -502,8 +761,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>KID FRESINO「Salve feat. JJJ」（from EP『Salve』2017/01/25）</li>
+  <li>中小企業「FUGA」（from 专辑『NESS』2017/03/15）</li>
+  <li>🎙️</li>
+  <li>963「ストロー」（from EP『夢?幻?ドロップス &amp; ストロー』2017/02/24）</li>
+  <li>ちゃんみな「未成年 Feat. めっし (New Mix)」（from 专辑『未成年』2017/03/08）</li>
+  <li>🎙️</li>
+  <li>Especia「No 1 Sweeper」（from 专辑『Wizard』2017/03/22）</li>
+  <li>テンテンコ「WA・ショイ！」（from LP『Wa・ショイ！ / Good bye,Good girl.』2017/04/22）</li>
+  <li>🎙️</li>
+  <li>ikanimo「はいはい」（from 专辑『ikanimo』2016/11/16）</li>
+  <li>水曜日のカンパネラ「海 その愛 feat. 加山雄三」（from 合辑『加山雄三の新世界』2017/03/08）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2017/03/31/new-releases-5/">
+        <img src="https://subjpop.github.io/images/banners/23.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2593418764038370822</guid>
       <category>Music</category>
       <enclosure length="2578" url="http://cdn5.lizhi.fm/audio/2017/03/30/2593418764038370822_hd.mp3" type="audio/mpeg"/>
@@ -511,7 +790,7 @@
     
     <item>
       <title>Vol. 22 我们来听新唱片！！！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>3007</itunes:duration>
       <pubDate>Fri, 03 Mar 2017 00:00:00 -0500</pubDate>
@@ -539,8 +818,29 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>D.A.N.「SSWB」（from single『SSWB』2016/12/23）</li>
+  <li>🎙️</li>
+  <li>港カヲル（グループ魂）「俺でいいのかい」（from 1st solo album『俺でいいのかい ~港カヲル、歌いすぎる~』2017/01/25）</li>
+  <li>KREVA「嘘と煩悩」（from album『嘘と煩悩』2017/02/01）</li>
+  <li>🎙️</li>
+  <li>p1 a.k.a. 2g x 呂布カルマ「生まれては死んでいく赤道直下の赤ん坊みたいに」（from album『A New Misunderstanding』2016/11/23）</li>
+  <li>JJJ「PLACE TO GO」（from album『HIKARI』2017/02/22）</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「夜間飛行」（from SoundCloud 2017/01/09）</li>
+  <li>Maison book girl「faithlessness」（from BD『Solitude HOTEL 2F』bonus CD『faithlessness』2017/02/15）</li>
+  <li>🎙️</li>
+  <li>電気グルーヴ「 柿の木坂」（from album『TROPICAL LOVE』2017/03/01）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2017/03/03/new-releases-4/">
+        <img src="https://subjpop.github.io/images/banners/22.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2588242553198892550</guid>
       <category>Music</category>
       <enclosure length="3007" url="http://cdn5.lizhi.fm/audio/2017/03/03/2588242553198892550_hd.mp3" type="audio/mpeg"/>
@@ -548,7 +848,7 @@
     
     <item>
       <title>Vol. 20-2 二十一世纪日音怪奇生命体・星期三的康帕内拉（下）</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2597</itunes:duration>
       <pubDate>Fri, 10 Feb 2017 00:00:00 -0500</pubDate>
@@ -575,8 +875,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>「一休さん」（from 1st major album「SUPERMAN」2017/02/08）</li>
+  <li>「世阿弥」（from 1st major album「SUPERMAN」2017/02/08）</li>
+  <li>🎙️</li>
+  <li>「ミツコ」（from 3rd mini album「シネマジャック」2014/02/26）</li>
+  <li>「パフ」（from 1st mini album「クロールと逆上がり」2013/05/15）</li>
+  <li>🎙️</li>
+  <li>「ものぐさ太郎」（from 配信限定EP「ノルウェイの盛り」2013/05/25）</li>
+  <li>「ウランちゃん」（from 5th mini album「ジパング」2015/11/11)</li>
+  <li>🎙️</li>
+  <li>「西玉夫」（from 5th mini album「ジパング」2015/11/11）</li>
+  <li>「マッチ売りの少女」（from 5th mini album「ジパング」2015/11/11）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/brand%20new%20band/2017/02/10/wednesday-campanella-2/">
+        <img src="https://subjpop.github.io/images/banners/20-2.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2584391298769268230</guid>
       <category>Music</category>
       <enclosure length="2597" url="http://cdn5.lizhi.fm/audio/2017/02/10/2584391298769268230_hd.mp3" type="audio/mpeg"/>
@@ -584,7 +904,7 @@
     
     <item>
       <title>特别放送・松野莉奈「できるかな？」</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>320</itunes:duration>
       <pubDate>Wed, 08 Feb 2017 00:00:00 -0500</pubDate>
@@ -599,8 +919,16 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/special/2017/02/08/rip-matsuno-rina/">
+        <img src="https://subjpop.github.io/images/banners/special-1.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2584126703015995398</guid>
       <category>Music</category>
       <enclosure length="320" url="http://cdn5.lizhi.fm/audio/2017/02/08/2584126703015995398_hd.mp3" type="audio/mpeg"/>
@@ -608,7 +936,7 @@
     
     <item>
       <title>Vol. 21-2 偶像乐曲大奖2016・Major偶像篇</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>4065</itunes:duration>
       <pubDate>Sun, 05 Feb 2017 00:00:00 -0500</pubDate>
@@ -640,8 +968,33 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>欅坂46「サイレントマジョリティー」（from 1st single「サイレントマジョリティー」2016/04/06）</li>
+  <li>🎙️</li>
+  <li>BiSH「オーケストラ」（from 3rd album「KiLLER BiSH」2016/10/05）</li>
+  <li>欅坂46「二人セゾン」（from 3rd single「二人セゾン」2016/11/30）</li>
+  <li>🎙️</li>
+  <li>わーすた「うるとらみらくるくるふぁいなるアルティメットチョコびーむ」（from 1st album「The World Standard」2016/05/04）</li>
+  <li>夢みるアドレセンス「ファンタスティックパレード」（from 4th major single「おしえてシュレディンガー/ファンタスティックパレード」 2016/04/27）</li>
+  <li>🎙️</li>
+  <li>欅坂46「世界には愛しかない」（from 2nd single「世界には愛しかない」2016/08/10）</li>
+  <li>lyrical school「RUN and RUN」（from 9th single「RUN and RUN」2016/04/27）</li>
+  <li>🎙️</li>
+  <li>東京女子流「深海 -Hi-ra Mix-」（from 20th single「深海」2016/08/31）</li>
+  <li>私立恵比寿中学「まっすぐ」（from 10th major single「まっすぐ」2016/09/21）</li>
+  <li>🎙️</li>
+  <li>AKB48「365日の紙飛行機」（from 42nd single「唇にBe My Baby」2015/12/09）</li>
+  <li>Secret soundtrack?</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2017/02/05/idol-music-award-2016-major/">
+        <img src="https://subjpop.github.io/images/banners/21-2.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2583205767536598534</guid>
       <category>Music</category>
       <enclosure length="4065" url="http://cdn5.lizhi.fm/audio/2017/02/03/2583205767536598534_hd.mp3" type="audio/mpeg"/>
@@ -649,7 +1002,7 @@
     
     <item>
       <title>Vol. 21-1 偶像乐曲大奖2016・独立/地方偶像篇</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>5173</itunes:duration>
       <pubDate>Fri, 27 Jan 2017 00:00:00 -0500</pubDate>
@@ -683,8 +1036,35 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>まねきケチャ「きみわずらい」（from 1st single「きみわずらい／妄想桜」2016/04/26）</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「広告の街」（from 2nd single「魔法の言葉」2016/02/16）</li>
+  <li>🎙️</li>
+  <li>アイドルネッサンス「君の知らない物語」（from 6th single「君の知らない物語」2016/07/26）</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「魔法の言葉」（from 2nd single「魔法の言葉」2016/02/16）</li>
+  <li>アイドルネッサンス「Funny Bunny」（from 5th single「Funny Bunny」 2015/12/22）</li>
+  <li>🎙️</li>
+  <li>(secret track）</li>
+  <li>sora tob sakana「夏の扉」（from 1st album「sora tob sakana」2016/07/26）</li>
+  <li>アップアップガールズ(仮)「パーリーピーポーエイリアン」（from 20th single「パーリーピーポーエイリアン／セブン☆ピース」2016/04/05）</li>
+  <li>🎙️</li>
+  <li>Negicco「矛盾、はじめました。」（from 20th single「矛盾、はじめました。」2016/03/29）</li>
+  <li>虹のコンキスタドール「限りなく冒険に近いサマー」（from 6th single「限りなく冒険に近いサマー」2016/09/20）</li>
+  <li>🎙️</li>
+  <li>アイドルネッサンス「トラベラーズ・ハイ」（from 6th single「君の知らない物語」2016/07/26）</li>
+  <li>アップアップガールズ(仮)「君という仮説」（from 21st album「!!!!!!!!／君という仮説」2016/10/11）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2017/01/27/idol-music-award-2016-indie/">
+        <img src="https://subjpop.github.io/images/banners/21-1.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2581563228161845766</guid>
       <category>Music</category>
       <enclosure length="5173" url="http://cdn5.lizhi.fm/audio/2017/01/26/2581563228161845766_hd.mp3" type="audio/mpeg"/>
@@ -692,7 +1072,7 @@
     
     <item>
       <title>Vol. 20-1 二十一世纪日音怪奇生命体・星期三的康帕内拉（上）</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>minami</itunes:author>
       <itunes:duration>2568</itunes:duration>
       <pubDate>Fri, 30 Dec 2016 00:00:00 -0500</pubDate>
@@ -719,8 +1099,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Pumpkinhead </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Pumpkinhead</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>水曜日のカンパネラ「ナポレオン」（from 1st EP「トライアスロン」2015/04/15）</li>
+  <li>水曜日のカンパネラ「千利休」（from 4th album「私を鬼ヶ島に連れてって」2014/11/5）</li>
+  <li>🎙️</li>
+  <li>水曜日のカンパネラ「猪八戒」（from 5th album「ジパング」2015/11/11</li>
+  <li>水曜日のカンパネラ「ツイッギー」（from 5th album「ジパング」2015/11/11）</li>
+  <li>水曜日のカンパネラ「雪男イエティ」（from 1st major EP「UMA」 2016/6/22）</li>
+  <li>🎙️</li>
+  <li>水曜日のカンパネラ「ディアブロ」（from 1st EP「トライアスロン」2015/04/15）</li>
+  <li>水曜日のカンパネラ「名無しの権兵衛」（from 1st album「クロールと逆上がり」2013/05/15）</li>
+  <li>🎙️</li>
+  <li>水曜日のカンパネラ「めぐる季節」（from cover album「安眠豆腐」2016/08/17）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/brand%20new%20band/2016/12/30/wednesday-campanella-1/">
+        <img src="https://subjpop.github.io/images/banners/20-1.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Pumpkinhead </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2576536415618402822</guid>
       <category>Music</category>
       <enclosure length="2568" url="http://cdn5.lizhi.fm/audio/2016/12/29/2576536415618402822_hd.mp3" type="audio/mpeg"/>
@@ -728,7 +1128,7 @@
     
     <item>
       <title>Vol. 19-2 我们来听新唱片！！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2262</itunes:duration>
       <pubDate>Fri, 16 Dec 2016 00:00:00 -0500</pubDate>
@@ -754,8 +1154,27 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>3776「正月はええもんだ」（from EP「歳時記・第一巻」2016/11/24）</li>
+  <li>私立恵比寿中学「梅（中卒ver.）」（from best collection「中卒」2016/11/16）</li>
+  <li>🎙️</li>
+  <li>ようなぴ「été」（from 1st solo single「Return To My Innocence」2015/11/09）</li>
+  <li>Maison book girl「karma」（from 1st major single「river (cloudy irony)」2016/11/30）</li>
+  <li>🎙️</li>
+  <li>テンテンコ 「流氷のこども」（from 1st mini-album「工業製品」2016/12/14）</li>
+  <li>amiinA「lilla」（from 1st album「Avalon」2016/10/26）</li>
+  <li>🎙️</li>
+  <li>cero「ロープウェー」（from 3rd single「街の報せ」2016/12/07）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2016/12/16/new-releases-3b/">
+        <img src="https://subjpop.github.io/images/banners/19-2.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2573898143910512134</guid>
       <category>Music</category>
       <enclosure length="2262" url="http://cdn5.lizhi.fm/audio/2016/12/15/2573898143910512134_hd.mp3" type="audio/mpeg"/>
@@ -763,7 +1182,7 @@
     
     <item>
       <title>Vol. 19-1 我们来听新唱片！！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2352</itunes:duration>
       <pubDate>Fri, 16 Dec 2016 00:00:00 -0500</pubDate>
@@ -789,8 +1208,27 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>水曜日のカンパネラ「アラジン」（from major 1st single「SUPERKID」2016/11/01）</li>
+  <li>sora tob sakana「タイムマシンにさよなら」（from sora tob sakana’s SoundCloud 2016/10/16）</li>
+  <li>🎙️</li>
+  <li>CHICO CARLITO「Orion’s belt ft. RITTO」（from 1st album「Carlito’s Way」2016/12/07）</li>
+  <li>ACE「come on! feat. 般若, ZEEBRA」（from 2nd album「LIGHT DOWN」2016/12/07）</li>
+  <li>🎙️</li>
+  <li>KOHH「Mitsuoka」（from online single「Mitsuoka」2016/12/13）</li>
+  <li>サ上と中江「さいごの宿題（川辺ヒロシREMIX）」（from 2nd album「夢見心地」2016/11/30）</li>
+  <li>🎙️</li>
+  <li>テンテンコ 「Good bye, Good girl.」（from 1st mini-album「工業製品」2016/12/14）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2016/12/16/new-releases-3a/">
+        <img src="https://subjpop.github.io/images/banners/19-1.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">https://www.lizhi.fm/1913563/2573900538354813446</guid>
       <category>Music</category>
       <enclosure length="2352" url="http://cdn5.lizhi.fm/audio/2016/12/15/2573900538354813446_hd.mp3" type="audio/mpeg"/>
@@ -798,7 +1236,7 @@
     
     <item>
       <title>Vol. 18 私立惠比寿中学・唱片公司没敢选的 Ebichu BEST</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2868</itunes:duration>
       <pubDate>Fri, 09 Dec 2016 00:00:00 -0500</pubDate>
@@ -826,8 +1264,29 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>私立恵比寿中学「私立恵比寿中学の日常 (Prologue)：二乗の事情」（from 2nd album『金八』2015/01/28）</li>
+  <li>私立恵比寿中学「テブラデスキー ～青春リバティ～」（from 2nd album『金八』2015/01/28）</li>
+  <li>私立恵比寿中学「キングオブ学芸会のテーマ ～Nu Skool Teenage Riot～」（from 2nd album『金八』2015/01/28）</li>
+  <li>🎙️</li>
+  <li>私立恵比寿中学「ゼッテーアナーキー」（from 3rd album『穴空』2016/04/20）</li>
+  <li>私立恵比寿中学「面皰」（from 3rd album『穴空』2016/04/20）</li>
+  <li>🎙️</li>
+  <li>私立恵比寿中学「中人DANCE MUSIC」（from 1st album『中人』2013/07/24 ）</li>
+  <li>私立恵比寿中学「買い物しようと町田へ」（from 2nd album『金八』2015/01/28）</li>
+  <li>🎙️</li>
+  <li>私立恵比寿中学「幸せの貼り紙はいつも背中に」（from 2nd album『金八』2015/01/28）</li>
+  <li>私立恵比寿中学「参枚目のタフガキ」（from 3rd album『穴空』2016/04/20）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/12/09/unofficial-ebichu-best/">
+        <img src="https://subjpop.github.io/images/banners/18.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2572660731619576838</guid>
       <category>Music</category>
       <enclosure length="2868" url="http://cdn5.lizhi.fm/audio/2016/12/09/2572660731619576838_hd.mp3" type="audio/mpeg"/>
@@ -835,7 +1294,7 @@
     
     <item>
       <title>Vol. 17 清龙人25・赶在♡一夫多妻制♡偶像组合解散之前</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2526</itunes:duration>
       <pubDate>Fri, 02 Dec 2016 00:00:00 -0500</pubDate>
@@ -862,8 +1321,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>清竜人25「Will♡You♡Marry♡Me?」（from 1st album『PROPOSE』2015/09/02）</li>
+  <li>清竜人25「Mr. Play Boy…♡」（from 1st album『PROPOSE』2015/09/02）</li>
+  <li>🎙️</li>
+  <li>清竜人 × 清咲乃「キネマトグラフを♡」（from duet EP『DUET』2016/04/01）</li>
+  <li>清竜人 × 清桃花「アカシック♡レコード」（from duet EP『DUET』2016/04/01）</li>
+  <li>🎙️</li>
+  <li>清竜人25「Christmas♡Symphony」（from single『Christmas♡Symphony』2015/12/02）</li>
+  <li>清竜人25「Call♡Me♡Baby」（from 1st album『PROPOSE』2015/09/02）</li>
+  <li>🎙️</li>
+  <li>清竜人 × 清亜美「I Love Youはあなただけ♡」（from duet EP『DUET』2016/04/01）</li>
+  <li>清竜人 × 清美咲「まるで嘘のように…♡」（from duet EP『DUET』2016/04/01）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/12/02/kiyoshiryujin25/">
+        <img src="https://subjpop.github.io/images/banners/17.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2571000207068722182</guid>
       <category>Music</category>
       <enclosure length="2526" url="http://cdn5.lizhi.fm/audio/2016/11/30/2571000207068722182_hd.mp3" type="audio/mpeg"/>
@@ -871,7 +1350,7 @@
     
     <item>
       <title>Vol. 16 旋风般破坏，流星般璀璨・BiS -新生IDOL研究会-</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>stygian</itunes:author>
       <itunes:duration>2924</itunes:duration>
       <pubDate>Fri, 25 Nov 2016 00:00:00 -0500</pubDate>
@@ -898,8 +1377,28 @@
       </a>
       <p>主播</p>
       <ul> <li>死得瑟吉恩 </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：死得瑟吉恩</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>BiS「IDOL」（from 2nd album『IDOL is DEAD』2012/10/24）</li>
+  <li>BiS「Fly」（from 3rd album『WHO KiLLED IDOL?』2014/03/15）</li>
+  <li>🎙️</li>
+  <li>BiS「BiSBiS」（from 4th album『Brand-New Idol Society 2』2016/11/16）</li>
+  <li>BiS「CHANGE the WORLD」（from 4th album『Brand-New Idol Society 2』2016/11/16）</li>
+  <li>🎙️</li>
+  <li>BiS「BiS」（from 4th album『Brand-New Idol Society 2』2016/11/16）</li>
+  <li>BiS「太陽のじゅもん」（from 4th album『Brand-New Idol Society 2』2016/11/16）</li>
+  <li>🎙️</li>
+  <li>BiS「animal」（from 1st single『My Ixxx』2011/08/03）</li>
+  <li>BiS「primal.」（from 3rd single『primal.』2011/12/21）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/11/25/bis-1/">
+        <img src="https://subjpop.github.io/images/banners/16.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>死得瑟吉恩 </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2570191651557514758</guid>
       <category>Music</category>
       <enclosure length="2924" url="http://cdn5.lizhi.fm/audio/2016/11/25/2570191651557514758_hd.mp3" type="audio/mpeg"/>
@@ -907,7 +1406,7 @@
     
     <item>
       <title>Vol. 15 METAFIVE・平均年龄48岁的新人乐队</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>minami</itunes:author>
       <itunes:duration>2792</itunes:duration>
       <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
@@ -933,8 +1432,27 @@
       </a>
       <p>主播</p>
       <ul> <li>Pumpkinhead </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Pumpkinhead</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>METAFIVE「Don’t Move」（from 1st album「META」2016/01/13）</li>
+  <li>METAFIVE「Maisie’s Avenue」（from 1st album「META」2016/01/13）</li>
+  <li>🎙️</li>
+  <li>METAFIVE「Musical Chairs」（from 1st EP「METAHALF」2016/11/09）</li>
+  <li>METAFIVE「Submarine」（from 1st EP「METAHALF」2016/11/09）</li>
+  <li>🎙️</li>
+  <li>本真綾xコーネリアス「まだうごく」（from Single「あなたを保つもの／まだうごく」2015/6/7）</li>
+  <li>サカナクション「Music (Cornelius Remix)」（from remix album「Constellations Of Music」2015/08/19）</li>
+  <li>🎙️</li>
+  <li>METAFIVE「Luv U Tokio」（from live album「METALIVE」2016/08/17）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/brand%20new%20band/2016/11/18/metafive/">
+        <img src="https://subjpop.github.io/images/banners/15.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Pumpkinhead </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2568731068473135110</guid>
       <category>Music</category>
       <enclosure length="2792" url="http://cdn5.lizhi.fm/audio/2016/11/17/2568731068473135110_hd.mp3" type="audio/mpeg"/>
@@ -942,7 +1460,7 @@
     
     <item>
       <title>Vol. 14 GREAT SONGS TAKE REVENGE</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>3009</itunes:duration>
       <pubDate>Fri, 04 Nov 2016 00:00:00 -0400</pubDate>
@@ -967,8 +1485,26 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>東京女子流「深海 -Hi-ra Mix-」（from 20th single「深海」2016/08/31）</li>
+  <li>🎙️</li>
+  <li>クウチュウ戦「白い十代」（live at 新宿dues 2015/12/03）</li>
+  <li>🎙️</li>
+  <li>cero「Summer Soul」（from 3rd album「Obscure Ride」2015/05/27）</li>
+  <li>🎙️</li>
+  <li>LUCKY TAPES「体温」（from 3rd single「MOON」2016/01/13）</li>
+  <li>🎙️</li>
+  <li>3776「時空ラブレター～アフター大噴火の世界の君へ～」（from 1st album of season #3「ラブレター」2014/12/28）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/songs%20for%20a%20break/2016/11/04/great-songs-take-revenge/">
+        <img src="https://subjpop.github.io/images/banners/14.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2566174285405687302</guid>
       <category>Music</category>
       <enclosure length="3009" url="http://cdn5.lizhi.fm/audio/2016/11/04/2566174285405687302_hd.mp3" type="audio/mpeg"/>
@@ -976,7 +1512,7 @@
     
     <item>
       <title>Vol. 13 如果有不听3776的理由的话・3776 (season 3)</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2824</itunes:duration>
       <pubDate>Fri, 28 Oct 2016 00:00:00 -0400</pubDate>
@@ -1002,8 +1538,27 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>3776「Introduction」（from 2nd album of season #3「3776を聴かない理由があるとすれば」2015/10/28）</li>
+  <li>3776「登らない理由があるとすれば」（from 2nd album of season #3「3776を聴かない理由があるとすれば」2015/10/28）</li>
+  <li>3776「洞窟探検」（from 2nd album of season #3「3776を聴かない理由があるとすれば」2015/10/28</li>
+  <li>🎙️</li>
+  <li>3776「春がきた」（from 2nd album of season #3「3776を聴かない理由があるとすれば」2015/10/28</li>
+  <li>3776「湧玉池便り」（from 2nd album of season #3「3776を聴かない理由があるとすれば」2015/10/28）</li>
+  <li>🎙️</li>
+  <li>3776 Extended「僕だけのハッピーエンド」（from single「僕だけのハッピーエンド」2016/06/15）</li>
+  <li>🎙️</li>
+  <li>3776と学園祭学園「まぼろし音楽」（from single「まぼろし音楽」2015/09/23）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/10/28/3776-3/">
+        <img src="https://subjpop.github.io/images/banners/13.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2564919751230012934</guid>
       <category>Music</category>
       <enclosure length="2824" url="http://cdn5.lizhi.fm/audio/2016/10/28/2564919751230012934_hd.mp3" type="audio/mpeg"/>
@@ -1011,7 +1566,7 @@
     
     <item>
       <title>Vol. 12 当我谈摇滚的时候我在谈偶像・BiSH</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>3423</itunes:duration>
       <pubDate>Fri, 21 Oct 2016 00:00:00 -0400</pubDate>
@@ -1038,8 +1593,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>BiSH「スパーク &amp;`&amp;16」（from 2nd album『FAKE METAL JACKET』2016/01/20）</li>
+  <li>BiSH「BiSH -星が瞬く夜に- &amp;`&amp;16」（from 2nd album『FAKE METAL JACKET』2016/01/20）</li>
+  <li>🎙️</li>
+  <li>BiSH「DEADMAN (2nd)」（from 3rd album『KiLLER BiSH』2016/10/05）</li>
+  <li>BiSH「本当本気」（from 3rd album『KiLLER BiSH』2016/10/05）</li>
+  <li>BiSH「Hey Gate」（from 3rd album『KiLLER BiSH』2016/10/05）</li>
+  <li>🎙️</li>
+  <li>BiSH「Stairway to Me」（from 3rd album『KiLLER BiSH』2016/10/05）</li>
+  <li>BiSH「summertime」（from 3rd album『KiLLER BiSH』2016/10/05）</li>
+  <li>🎙️</li>
+  <li>BiSH「Primitive」（from 2nd album『FAKE METAL JACKET』2016/01/20) + hidden track</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/10/21/bish/">
+        <img src="https://subjpop.github.io/images/banners/12.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2563588347875550726</guid>
       <category>Music</category>
       <enclosure length="3423" url="http://cdn5.lizhi.fm/audio/2016/10/21/2563588347875550726_hd.mp3" type="audio/mpeg"/>
@@ -1047,7 +1622,7 @@
     
     <item>
       <title>Vol. 11 我们来听新唱片！！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>Mimida</itunes:author>
       <itunes:duration>2874</itunes:duration>
       <pubDate>Fri, 14 Oct 2016 00:00:00 -0400</pubDate>
@@ -1074,8 +1649,28 @@
       </a>
       <p>主播</p>
       <ul> <li>Mimida </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Mimida</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>水曜日のカンパネラ「松尾芭蕉」（TOYOTA CM song 2016/08/29）</li>
+  <li>柴山一幸 featuring 井出ちよの、石田彰「That&amp;`&amp;s the way」（from 6th album「Fly Fly Fly」2016/10/05）</li>
+  <li>🎙️</li>
+  <li>平沢進「灰よ」（from soundtrack collection「Ash Crow」 2016/09/14）</li>
+  <li>DOTAMA × Kuma the Sureshot「真面目な男」（from collab album「 DIRECTORY」2016/09/01）</li>
+  <li>🎙️</li>
+  <li>BiSH「オーケストラ」（from 3rd album「KiLLER BiSH」2016/10/05, iTunes ver. 2016/09/05）</li>
+  <li>佐々木彩夏「あーりんはあーりん♡」（from digital single「あーりんはあーりん♡」2016/09/28）</li>
+  <li>🎙️</li>
+  <li>ももいろクローバーZ「DECORATION」（from 16th single「ザ・ゴールデン・ヒストリー」2016/09/07）</li>
+  <li>AOKO「FASHION」（from 2nd major single「もしも僕らがGAMEの主役で / ダイスキ with TeddyLoid / BANG!」2016/09/14）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2016/10/14/new-releases-2/">
+        <img src="https://subjpop.github.io/images/banners/11.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Mimida </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2562283983487376390</guid>
       <category>Music</category>
       <enclosure length="2874" url="http://cdn5.lizhi.fm/audio/2016/10/14/2562283983487376390_hd.mp3" type="audio/mpeg"/>
@@ -1083,7 +1678,7 @@
     
     <item>
       <title>Vol. 10 宇多田光之后・大比良瑞希 x Okamoto Emi</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2462</itunes:duration>
       <pubDate>Fri, 07 Oct 2016 00:00:00 -0400</pubDate>
@@ -1111,8 +1706,29 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>大比良瑞希「TIME LIMIT」（from 1st Album「TRUE ROMANCE」2016/07/06）</li>
+  <li>🎙️</li>
+  <li>大比良瑞希「微熱」（from 1st Album「TRUE ROMANCE」2016/07/06）</li>
+  <li>大比良瑞希「Sunday Monday」（from 1st Album「TRUE ROMANCE」2016/07/06）</li>
+  <li>🎙️</li>
+  <li>おかもとえみ「HIT NUMBER」（from 1st Album「ストライク！」2015/11/18）</li>
+  <li>おかもとえみ「ひみつ」（from EP「POOL」2016/06/22）</li>
+  <li>🎙️</li>
+  <li>おかもとえみ「東京サーチライト」（from 1st Album「ストライク！」2015/11/18）</li>
+  <li>おかもとえみ「もしもを選んだあとで」（from Compilation「モナレコ・コンピ ～かけだしてく～」2015/07/15）</li>
+  <li>🎙️</li>
+  <li>フレンズ「夜にダンス」（from 1st Mini Album「ショー・チューン」2016/05/25）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/after%20hikki/2016/10/07/after-hikki-1/">
+        <img src="https://subjpop.github.io/images/banners/10.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2560764069721117190</guid>
       <category>Music</category>
       <enclosure length="2462" url="http://cdn5.lizhi.fm/audio/2016/10/05/2560764069721117190_hd.mp3" type="audio/mpeg"/>
@@ -1120,7 +1736,7 @@
     
     <item>
       <title>Vol. 09 Two OK Bands・空中战 x Lucky Tapes</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2475</itunes:duration>
       <pubDate>Fri, 30 Sep 2016 00:00:00 -0400</pubDate>
@@ -1147,8 +1763,28 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>クウチュウ戦「追跡されてる」（from 1st mini album「コンパクト」2015/05/13）</li>
+  <li>クウチュウ戦「Amore」（from 1st mini album「コンパクト」2015/05/13）</li>
+  <li>🎙️</li>
+  <li>クウチュウ戦「雨模様です」（from 2nd mini album「Sukoshi Fushigi」2016/01/20)</li>
+  <li>クウチュウ戦「作られた歌」（from 1st mini album「コンパクト」2015/05/13）</li>
+  <li>🎙️</li>
+  <li>Lucky Tapes「贅沢な罠」（from 2nd album「Cigarette &amp; Alcohol」2016/07/06）</li>
+  <li>Lucky Tapes「パレード」（from 2nd album「Cigarette &amp; Alcohol」2016/07/06）</li>
+  <li>🎙️</li>
+  <li>Lucky Tapes「MILK」（from 2nd album「Cigarette &amp; Alcohol」2016/07/06）</li>
+  <li>Lucky Tapes「TONIGHT!」（from 2nd album「Cigarette &amp; Alcohol」2016/07/06）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/brand%20new%20band/2016/09/30/two-ok-bands/">
+        <img src="https://subjpop.github.io/images/banners/9.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2559428300534342662</guid>
       <category>Music</category>
       <enclosure length="2475" url="http://cdn5.lizhi.fm/audio/2016/09/28/2559428300534342662_hd.mp3" type="audio/mpeg"/>
@@ -1156,7 +1792,7 @@
     
     <item>
       <title>Vol. 08 From City To Urban・2010年代的 City Pop</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>minami</itunes:author>
       <itunes:duration>2552</itunes:duration>
       <pubDate>Fri, 23 Sep 2016 00:00:00 -0400</pubDate>
@@ -1182,8 +1818,27 @@
       </a>
       <p>主播</p>
       <ul> <li>Pumpkinhead </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：Pumpkinhead</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>Cero「Yellow Magus」（from 3rd album「Obscure Ride」2015/05/27）</li>
+  <li>王舟「ディスコブラジル (Alone)」（from 2nd album「PICTURE」2016/01/20）</li>
+  <li>🎙️</li>
+  <li>Yogee New Waves「Climax Night (album version)」（from 1st album「PARAISO」2014/09/10）</li>
+  <li>never young beach「ちょっと待ってよ」（from 1st album「YASHINOKI HOUSE」2015/05/13）</li>
+  <li>🎙️</li>
+  <li>Awesome City Club「涙の上海ナイト（from 1st album「Awesome City Tracks」 2015/4/8）</li>
+  <li>Suchmos「YMM」（from 1st album「THE BAY」2015/07/08）</li>
+  <li>🎙️</li>
+  <li>Lucky Tapes「MOON」（from 2nd album「CIGARETTE &amp; ALCOHOL」2016/07/06）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/brand%20new%20band/2016/09/23/from-city-to-urban/">
+        <img src="https://subjpop.github.io/images/banners/8.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>Pumpkinhead </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2558376059315751430</guid>
       <category>Music</category>
       <enclosure length="2552" url="http://cdn5.lizhi.fm/audio/2016/09/23/2558376059315751430_hd.mp3" type="audio/mpeg"/>
@@ -1191,7 +1846,7 @@
     
     <item>
       <title>Vol. 07 那些让人难以舍弃的歌</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2698</itunes:duration>
       <pubDate>Fri, 16 Sep 2016 00:00:00 -0400</pubDate>
@@ -1222,8 +1877,32 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>sora tob sakana「summer plan」（from 1st album「sora tob sakana」2016/07/26）</li>
+  <li>🎙️</li>
+  <li>石野卓球「Fetish」（from 10th(?) album「Lunatique」2016/08/03）</li>
+  <li>🎙️</li>
+  <li>水曜日のカンパネラ「フェニックス」（from 1st major EP「UMA」2016/06/22）</li>
+  <li>🎙️</li>
+  <li>乙女新党「ツチノコっていると思う…?」（from 2nd album「乙女新党 第二幕 ～旅立ちのうた～」2016/06/29）</li>
+  <li>🎙️</li>
+  <li>DE DE MOUSE「old friend’s song」（from 4th EP「to milkyway planet」2013/08/16）</li>
+  <li>🎙️</li>
+  <li>KOHH「Be Me」（from 3rd album「DIRT」2015/10/28）</li>
+  <li>🎙️</li>
+  <li>Maison book girl「last scene」（from 1st album「bath room」2015/09/23）</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「クラウチングスタート」（from 1st single「夜空を全部」2015/10/10）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/songs%20for%20a%20break/2016/09/16/unforgettable-songs/">
+        <img src="https://subjpop.github.io/images/banners/7.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2557068909643039238</guid>
       <category>Music</category>
       <enclosure length="2698" url="http://cdn5.lizhi.fm/audio/2016/09/16/2557068909643039238_hd.mp3" type="audio/mpeg"/>
@@ -1231,7 +1910,7 @@
     
     <item>
       <title>Vol. 06 森林中的现代音乐少女・Maison Book Girl</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2282</itunes:duration>
       <pubDate>Fri, 09 Sep 2016 00:00:00 -0400</pubDate>
@@ -1258,8 +1937,28 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>Maison book girl「bath room (intro)」（from 1st album「bath room」2015/09/23）</li>
+  <li>Maison book girl「bath room」（from 1st album「bath room」2015/09/23）</li>
+  <li>Maison book girl「my cut」（from 1st album「bath room」2015/09/23）</li>
+  <li>🎙️</li>
+  <li>Maison book girl「最後のような彼女の曲」（from 1st album「bath room」2015/09/23）</li>
+  <li>Maison book girl「snow irony」（from 1st album「bath room」2015/09/23）</li>
+  <li>🎙️</li>
+  <li>ずんね from JC-WC「14才のおしえて」（from single「14才のおしえて」2015/11/18）</li>
+  <li>いずこねこ「last cat factory」（from 1st album「最後の猫工場」2012/08/04）</li>
+  <li>🎙️</li>
+  <li>Maison book girl「blue light」（from 1st EP「summer continue」2015/03/30）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/09/09/maison-book-girl/">
+        <img src="https://subjpop.github.io/images/banners/6.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2555606984380017670</guid>
       <category>Music</category>
       <enclosure length="2282" url="http://cdn5.lizhi.fm/audio/2016/09/08/2555606984380017670_hd.mp3" type="audio/mpeg"/>
@@ -1267,7 +1966,7 @@
     
     <item>
       <title>Vol. 05 这个 Rapper 脖子上纹着杜尚的蒙娜丽莎・KOHH</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2690</itunes:duration>
       <pubDate>Fri, 02 Sep 2016 00:00:00 -0400</pubDate>
@@ -1295,8 +1994,29 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>KOHH「飛行機」（from 1st album「梔子」2015/01/01）</li>
+  <li>KOHH「iPhone5」（from 1st album「梔子」2015/01/01）</li>
+  <li>🎙️</li>
+  <li>KOHH「Fuck Swag」（from 2nd album「MONOCHROME」2014/07/30）</li>
+  <li>KOHH「貧乏なんて気にしない」（from 2nd album「MONOCHROME」2014/07/30）</li>
+  <li>KOHH「友達」（from 1st album「梔子」2015/01/01）</li>
+  <li>🎙️</li>
+  <li>KOHH「Dirt Boys (feat. Dutch Montana Loota)」（from 3rd album「DIRT」2015/10/28）</li>
+  <li>KOHH「Living Legend」（from 3rd album「DIRT」2015/10/28）</li>
+  <li>KOHH「Business and Art」（from 3rd album「DIRT II」2015/10/28）</li>
+  <li>🎙️</li>
+  <li>KOHH「Where You at?」（from 1st album「梔子」2015/01/01）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2016/09/02/kohh/">
+        <img src="https://subjpop.github.io/images/banners/5.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2554597714309330438</guid>
       <category>Music</category>
       <enclosure length="2690" url="http://cdn5.lizhi.fm/audio/2016/09/02/2554597714309330438_hd.mp3" type="audio/mpeg"/>
@@ -1304,7 +2024,7 @@
     
     <item>
       <title>Vol. 04 梦见另一个夏夜・DE DE MOUSE</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2480</itunes:duration>
       <pubDate>Fri, 26 Aug 2016 00:00:00 -0400</pubDate>
@@ -1330,8 +2050,27 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>DE DE MOUSE「remember night」（from new EP「summer twilight」2016/08/17）</li>
+  <li>DE DE MOUSE「summer twilight」（from new EP「summer twilight」2016/08/17）</li>
+  <li>🎙️</li>
+  <li>DE DE MOUSE「milkyway planet」（from EP「to milkyway planet」2013/08/16）</li>
+  <li>DE DE MOUSE「flicks tonight」（from album「sky was dark」2012/10/17）</li>
+  <li>🎙️</li>
+  <li>DE DE MOUSE &amp; 水曜日のカンパネラ「妖怪地獄音頭」（青山联合国大学2015盂兰盆舞活动「BDM」提供曲，from De De Mouse’s SoundCloud）</li>
+  <li>木村カエラ「Humpty Dumpty」（from 木村カエラ’s album「+1」2008/04/02）</li>
+  <li>🎙️</li>
+  <li>DE DE MOUSE「a dozen raindrops」（from album「farewell holiday!」2015/12/02）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/track-makers%20tracking/2016/08/26/de-de-mouse/">
+        <img src="https://subjpop.github.io/images/banners/4.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2553284633284748294</guid>
       <category>Music</category>
       <enclosure length="2480" url="http://cdn5.lizhi.fm/audio/2016/08/26/2553284633284748294_hd.mp3" type="audio/mpeg"/>
@@ -1339,7 +2078,7 @@
     
     <item>
       <title>Vol. 03 我们来听新唱片！</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2458</itunes:duration>
       <pubDate>Fri, 19 Aug 2016 00:00:00 -0400</pubDate>
@@ -1366,8 +2105,28 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>Especia「Savior」（from 4th EP「Mirage」2016/08/10）</li>
+  <li>婦人倶楽部「グルメ紀行」（from 1st album「フジンカラー」2016/07/13）</li>
+  <li>🎙️</li>
+  <li>細野晴臣「Mohican」（Online Single 2016/04/06）</li>
+  <li>クウチュウ戦「魔法が解ける」（from 3rd mini-album「超能力セレナーデ」2016/08/03）</li>
+  <li>🎙️</li>
+  <li>坂本慎太郎「できれば愛を」（from 3rd album「できれば愛を」2016/07/27）</li>
+  <li>Hauptharmonie「Kidnapper Blues~人攫いの憂鬱~」（from 2nd Album「Herz über Kopf」2016/07/12）</li>
+  <li>🎙️</li>
+  <li>BELLRING少女ハート「asthma」（5人ver.）（from 1st collection「BEST BRGH」2016/08/16）</li>
+  <li>水曜日のカンパネラ「ツチノコ」（from 1st major EP「UMA」2016/06/22）</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/new%20releases/2016/08/19/new-releases-1/">
+        <img src="https://subjpop.github.io/images/banners/3.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2551994715020845062</guid>
       <category>Music</category>
       <enclosure length="2458" url="http://cdn5.lizhi.fm/audio/2016/08/19/2551994715020845062_hd.mp3" type="audio/mpeg"/>
@@ -1375,7 +2134,7 @@
     
     <item>
       <title>Vol. 02 官能音乐・石野卓球</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2321</itunes:duration>
       <pubDate>Fri, 12 Aug 2016 00:00:00 -0400</pubDate>
@@ -1402,8 +2161,28 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>石野卓球「Rapt In Fantasy」</li>
+  <li>🎙️</li>
+  <li>石野卓球「Selene」</li>
+  <li>石野卓球「Dawn」</li>
+  <li>🎙️</li>
+  <li>加藤みどり、ひばり児童合唱団「カランコロンの唄」</li>
+  <li>人生「カランコロンの唄」</li>
+  <li>人生「オールナイトロング (おやすみヴァージョン)」</li>
+  <li>人生「世界あの店この店」</li>
+  <li>🎙️</li>
+  <li>石野卓球「Lunatique」</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/track-makers%20tracking/2016/08/12/functional-music/">
+        <img src="https://subjpop.github.io/images/banners/2.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2550688377092409862</guid>
       <category>Music</category>
       <enclosure length="2321" url="http://cdn5.lizhi.fm/audio/2016/08/12/2550688377092409862_hd.mp3" type="audio/mpeg"/>
@@ -1411,7 +2190,7 @@
     
     <item>
       <title>Vol. 01 后摇滚！！＋偶像组合？？＝ sora tob sakana</title>
-      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:author>marusan</itunes:author>
       <itunes:duration>2182</itunes:duration>
       <pubDate>Tue, 09 Aug 2016 00:00:00 -0400</pubDate>
@@ -1438,8 +2217,28 @@
       </a>
       <p>主播</p>
       <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></itunes:summary>
-      <description><![CDATA[<p>主播：DJ◯△□ / DJ MaruSankakuShikaku</p> 
-      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <description><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>sora tob sakana「海に纏わる言葉」(album ver.)</li>
+  <li>sora tob sakana「夏の扉」(soundcloud ver.)</li>
+  <li>sora tob sakana「広告の街」(album ver.)</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「夜空を全部」(single ver.)</li>
+  <li>sora tob sakana「Moon Swimming Weekender」(single ver.)</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「魔法の言葉」(single ver.)</li>
+  <li>sora tob sakana「まぶしい」(soundcloud ver.)</li>
+  <li>🎙️</li>
+  <li>sora tob sakana「おやすみ」(soundcloud ver.)</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/no%20music,%20no%20idol/2016/08/09/sora-tob-sakana/">
+        <img src="https://subjpop.github.io/images/banners/1.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>DJ◯△□ / DJ MaruSankakuShikaku </li> </ul>]]></description>
       <guid isPermaLink="true">http://www.lizhi.fm/1913563/2550147840425133062</guid>
       <category>Music</category>
       <enclosure length="2182" url="http://cdn5.lizhi.fm/audio/2016/08/09/2550147840425133062_hd.mp3" type="audio/mpeg"/>
