@@ -5,8 +5,8 @@
     <itunes:author>SUBJPOP</itunes:author>
     <copyright></copyright>
     <language>zh-cn</language>
-    <pubDate>Sat, 07 Oct 2017 12:27:33 -0400</pubDate>
-    <lastBuildDate>Sat, 07 Oct 2017 12:27:33 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Oct 2017 10:05:34 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Oct 2017 10:05:34 -0400</lastBuildDate>
     <itunes:category text="Music">
       
     </itunes:category>
@@ -21,6 +21,47 @@
     </itunes:owner>
     <generator>Jekyll v3.4.3</generator>
 
+    
+    <item>
+      <title>Vol. 35 日本のRap进行时 3.o</title>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:author>davidchill</itunes:author>
+      <itunes:duration>3049</itunes:duration>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 -0400</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary><![CDATA[
+      <p>播放列表</p>
+      <ol>
+  <li>PUNPEE「P.U.N.P.(Communication)」(from 1st album『Modern Times』2017/10/04)</li>
+  <li>🎙️</li>
+  <li>RAU DEF「STARZ feat.PUNPEE」(from 4th album『UNISEX』2017/9/27)</li>
+  <li>韻踏合組合「ポップコーン」(from 9th album 『王手』2017/9/9)</li>
+  <li>ZORN「いい感じ」(from 7th album『柴又日記』2017/9/13)</li>
+  <li>🎙️</li>
+  <li>HIT「IF (feat. 椿)」(from 1st EP『Be!! - EP』2017/7/6)</li>
+  <li>Chelmico「DRIVE」(from EP『EP』2017/9/6)</li>
+  <li>🎙️</li>
+  <li>kiLLa「kiLLaに気をつけな」(from 2nd EP 『kiLLa vol.2 Summer』2017/7/17)</li>
+  <li>Ittō x Jinmenusagi「うちゅじん feat. Savvy Williams」(from joint album 『Eternal Timer』2017/9/6)</li>
+  <li>🎙️</li>
+  <li>ILLNANDES &amp; ENDRUN「CZN’PASS (feat. ISSUGI)」(from joint album 『CZN’PASS』2017/9/6)</li>
+  <li>I-DeA「花籠 feat. NORIKIYO」(from 4th album 『SWEET HELL』2017/8/9)</li>
+  <li>🎙️</li>
+  <li>Qiezi Mabo 「Star Beach Love」(from 1st single『Star Beach Love』2017/7/7)</li>
+</ol>
+
+      <p>歌词以及翻译</p>
+      <a href="https://subjpop.github.io/j-hip%20hop/2017/10/20/japanese-rapping-3/">
+        <img src="https://subjpop.github.io/images/banners/35.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>大胃麒麟 </li> </ul>]]></itunes:summary>
+      <description><![CDATA[<p>主播：大胃麒麟</p> 
+      <p>SUBJPOP = DJ ◯△◻︎ + MC mimida + our guests = 日本「半主流」流行音乐最前沿播客+情报站。</p>]]></description>
+      <guid isPermaLink="true">https://www.lizhi.fm/1913563/2631097193564891142</guid>
+      <category>Music</category>
+      <enclosure length="3049" url="http://cdn5.lizhi.fm/audio/2017/10/19/2631097193564891142_hd.mp3" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>Vol. 34 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 III</title>
