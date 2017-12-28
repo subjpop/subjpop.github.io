@@ -6,6 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!--<link href="https://fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">-->
 	<link rel="stylesheet" href="/css/screen.css">
+	<link type="text/css" rel="stylesheet" media="screen" href="/css/jquery-sakura.min.css" />
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
 	<script src="https://cdn.bootcss.com/jquery/3.2.0/jquery.slim.min.js"></script>
 	<!--  -->
@@ -187,4 +188,16 @@
 		</footer>
 	</body>
 <script type="text/javascript" src="/js/subjpop.js"></script>
+<script src="/js/jquery-sakura.min.js"></script>
+<script>
+	// domReady
+	$(function () {
+		$('body').sakura();
+	});
+
+	// windowLoad
+	$(window).load(function () {
+		$('body').sakura();
+	});
+</script>
 </html>
