@@ -1,0 +1,25 @@
+#BRtoolbar .embed, .print {
+    display: none;
+}
+
+body {
+    background-color: #ff4e4e;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+}
+
+body:hover {
+    background-color: #1f67d4;
+}
+
+div#BookReader {
+    width: 100%;
+    height: 99vh;
+    overflow: hidden;
+    position:fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
