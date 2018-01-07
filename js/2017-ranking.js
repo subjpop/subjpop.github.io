@@ -80,7 +80,7 @@ br.getPageNum = function (index) {
 br.numLeafs = 30;
 
 // Book title and the URL used for the book title link
-br.bookTitle = 'SUBJPOP・・SUBJHOP 最佳日音唱片年度总选 2017';
+br.bookTitle = 'SUBJPOP・SUBJHOP 最佳日音唱片年度总选 2017';
 br.bookUrl = 'https://drive.google.com/open?id=1pXmFYG2W0IwgL4PGvc0DmpC5fPMb5n_p';
 br.bookUrlText = 'Download PDF E-book on subjpop.github.io';
 br.bookUrlTitle = 'Download PDF E-book on subjpop.github.io';
