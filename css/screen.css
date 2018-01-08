@@ -12,7 +12,7 @@ body {
 body,
 input,
 textarea {
-  font-family: Noto Sans SC, PingFang SC, Hiragino Sans GB, Helvetica Neue, Microsoft Yahei, WenQuanYi Micro Hei, sans-serif;
+  font-family: Noto Sans CJK SC, Noto Sans SC, PingFang SC, Segoe UI, Hiragino Sans GB, Helvetica Neue, Arial, Microsoft Yahei, WenQuanYi Micro Hei, sans-serif;
   color: #222; }
 
 h1 {

@@ -85,7 +85,7 @@ br.bookUrl = 'https://drive.google.com/open?id=1pXmFYG2W0IwgL4PGvc0DmpC5fPMb5n_p
 br.bookUrlText = 'Download PDF E-book on subjpop.github.io';
 br.bookUrlTitle = 'Download PDF E-book on subjpop.github.io';
 // thumbnail is optional, but it is used in the info dialog
-br.thumbnail = '/images/2017-ranking/01.png';
+br.thumbnail = '/images/2017-ranking/01.jpg';
 // Metadata is optional, but it is used in the info dialog
 br.metadata = [{
         label: 'Title',
