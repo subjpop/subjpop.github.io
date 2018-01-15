@@ -47,6 +47,9 @@ header {
 img {
   max-width: 100%; }
 
+.image {
+  text-align: center; }
+
 ol li + li {
   margin: 20px 0 0 0; }
 
