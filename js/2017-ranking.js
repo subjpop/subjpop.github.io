@@ -82,8 +82,8 @@ br.numLeafs = 30;
 // Book title and the URL used for the book title link
 br.bookTitle = 'SUBJPOP・SUBJHOP 最佳日音唱片年度总选 2017';
 br.bookUrl = 'https://pan.baidu.com/s/1gfTQWD1';
-br.bookUrlText = 'Download PDF E-book on subjpop.github.io';
-br.bookUrlTitle = 'Download PDF E-book on subjpop.github.io';
+br.bookUrlText = 'Download PDF E-book on subjpop.com';
+br.bookUrlTitle = 'Download PDF E-book on subjpop.com';
 // thumbnail is optional, but it is used in the info dialog
 br.thumbnail = '/images/2017-ranking/01.jpg';
 // Metadata is optional, but it is used in the info dialog

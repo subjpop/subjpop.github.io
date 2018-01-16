@@ -79,7 +79,7 @@ function BookReader() {
     this.lastDisplayableIndex2up = null;
 
     // Should be overriden (before init) by custom implmentations.
-    this.logoURL = 'https://subjpop.github.io';
+    this.logoURL = 'http://subjpop.com';
 
     // Base URL for UI images - should be overriden (before init) by
     // custom implementations.
@@ -5940,7 +5940,7 @@ BookReader.prototype.initUIStrings = function()
     // the toolbar and nav bar easier
 
     // Setup tooltips -- later we could load these from a file for i18n
-    var titles = { '.logo': 'Go to subjpop.github.io', // $$$ update after getting OL record
+    var titles = { '.logo': 'Go to subjpop.com', // $$$ update after getting OL record
                    '.zoom_in': 'Zoom in',
                    '.zoom_out': 'Zoom out',
                    '.onepg': 'One-page view',
