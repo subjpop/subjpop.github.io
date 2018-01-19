@@ -348,7 +348,7 @@ select {
   padding: 20px;
   height: 43px;
   background: #fff;
-  border-color: transparent;
+  border-color: rgba(0, 0, 0, 0);
   font-size: 1em;
   outline: 1px solid #000; }
   select:focus {
