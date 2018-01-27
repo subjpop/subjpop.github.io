@@ -421,6 +421,30 @@ nav {
     font-weight: bold;
     padding-left: 15px;
     padding-top: 23px; }
+  .sidebar .good-stuff h3 {
+    padding: 20px 0 1px 0; }
+  .sidebar .good-stuff blockquote {
+    font-style: italic;
+    line-height: 1.4em;
+    font-size: 13.5px;
+    margin: 0 0 0 1em;
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5; }
+  .sidebar .good-stuff ul {
+    padding: 0; }
+    .sidebar .good-stuff ul li {
+      list-style: none !important;
+      border-bottom: 1px solid #cacaca;
+      /*margin-left: -3px;*/
+      padding: 0.5em 5px 0.5em 0; }
+      .sidebar .good-stuff ul li:hover {
+        border-bottom: 1px solid #ff4e4e; }
+      .sidebar .good-stuff ul li a {
+        color: #000;
+        text-decoration: none; }
+        .sidebar .good-stuff ul li a:hover {
+          border-bottom: 0; }
 
 @media (min-width: 900px) {
   .sidebar.push {
