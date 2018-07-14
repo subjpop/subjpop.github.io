@@ -402,7 +402,10 @@ nav {
     .sidebar .author img {
       width: 200px;
       border-radius: 200px;
-      margin: 0 0 10px 0; }
+      margin: 0 0 10px 0;
+      transition: all 1.5s ease; }
+      .sidebar .author img:hover {
+        filter: hue-rotate(180deg); }
   .sidebar .social-icons {
     display: flex;
     justify-content: center;
