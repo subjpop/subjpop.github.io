@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     openInNewTab();
     markLatest();
+    scrambleAuthor();
 });
 
 // open external link in a new tab
@@ -26,3 +27,15 @@ const markLatest = () => {
         }
     });
 };
+
+const scrambleAuthor = () => {
+    const elements = document.querySelectorAll('[data-chaffle]');
+    Array.prototype.forEach.call(elements, function (el) {
+        const chaffle = new Chaffle(el, {
+            speed: 10,
+            delay: 20, });
+        el.addEventListener('mouseover', function () {
+            chaffle.init();
+        });
+    });
+}
