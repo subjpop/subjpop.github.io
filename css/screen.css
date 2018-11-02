@@ -419,9 +419,9 @@ nav {
       width: 200px;
       border-radius: 200px;
       margin: 0 0 10px 0;
-      transition: all 1.5s ease; }
+      transition: all 1.9s ease-in-out; }
       .sidebar .author img:hover {
-        filter: hue-rotate(180deg); }
+        filter: hue-rotate(360deg); }
   .sidebar .social-icons {
     display: flex;
     justify-content: center;
