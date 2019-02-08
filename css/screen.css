@@ -457,30 +457,28 @@ nav {
     font-weight: bold;
     padding-left: 15px;
     padding-top: 23px; }
-  .sidebar .apple-music {
+  .sidebar .good-stuff h3, .sidebar .apple-music h3 {
     margin-top: 20px; }
-  .sidebar .good-stuff h3 {
-    margin-top: 20px; }
-  .sidebar .good-stuff blockquote {
+  .sidebar .good-stuff blockquote, .sidebar .apple-music blockquote {
     line-height: 1.4em;
     font-size: 13.5px;
     margin: 0 0 0 1em;
     padding: 0 1em;
     color: #6a737d;
     border-left: 0.25em solid #dfe2e5; }
-  .sidebar .good-stuff ul {
+  .sidebar .good-stuff ul, .sidebar .apple-music ul {
     padding: 0; }
-    .sidebar .good-stuff ul li {
+    .sidebar .good-stuff ul li, .sidebar .apple-music ul li {
       list-style: none !important;
       border-bottom: 1px solid #cacaca;
       /*margin-left: -3px;*/
       padding: 0.5em 5px 0.5em 0; }
-      .sidebar .good-stuff ul li:hover {
+      .sidebar .good-stuff ul li:hover, .sidebar .apple-music ul li:hover {
         border-bottom: 1px solid #ff4e4e; }
-      .sidebar .good-stuff ul li a {
+      .sidebar .good-stuff ul li a, .sidebar .apple-music ul li a {
         color: #000;
         text-decoration: none; }
-        .sidebar .good-stuff ul li a:hover {
+        .sidebar .good-stuff ul li a:hover, .sidebar .apple-music ul li a:hover {
           border-bottom: 0; }
 
 @media (min-width: 900px) {
