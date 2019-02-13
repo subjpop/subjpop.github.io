@@ -457,6 +457,8 @@ nav {
     font-weight: bold;
     padding-left: 15px;
     padding-top: 23px; }
+  .sidebar .apple-music .shadow-box {
+    border-radius: 10px; }
   .sidebar .good-stuff h3, .sidebar .apple-music h3 {
     margin-top: 20px; }
   .sidebar .good-stuff blockquote, .sidebar .apple-music blockquote {
