@@ -34,7 +34,7 @@ function setup() {
 
   for (let i = 0; i < 38; i++) {
     let x = random(width);
-    let y = random(height);
+    let y = random(-height, -10);
     let design = random(textures);
     sakura.push(new SakuraPetal(x, y, design));
   }
