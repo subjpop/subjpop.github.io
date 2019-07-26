@@ -88,13 +88,13 @@ br.bookUrlTitle = 'Download PDF E-book on subjpop.com';
 br.thumbnail = '/images/2018-ranking/01.jpg';
 // Metadata is optional, but it is used in the info dialog
 br.metadata = [{
-        label: 'Title',
-        value: 'SUBJPOP SUB-J-HOP 最佳日音唱片年度总选 2018'
-    },
-    {
-        label: 'Author',
-        value: 'SUBJPOP'
-    },
+    label: 'Title',
+    value: 'SUBJPOP SUB-J-HOP 最佳日音唱片年度总选 2018'
+},
+{
+    label: 'Author',
+    value: 'SUBJPOP'
+},
     // {
     //     label: 'Demo Info',
     //     value: 'This demo shows how one could use BookReader with their own content.'
@@ -103,13 +103,13 @@ br.metadata = [{
 ];
 // This toggles the mobile drawer (not shown in 'embed' mode)
 br.enableMobileNav = true;
-br.mobileNavTitle = 'BookReader demo';
+br.mobileNavTitle = 'Subjpop Ranking';
 
 // Override the path used to find UI images
 br.imagesBaseURL = '/js/BookReader/images/';
 
 br.getEmbedCode = function (frameWidth, frameHeight, viewParams) {
-    return "Embed code not supported in bookreader demo.";
+    return "Embed code not supported in subjpop ranking.";
 };
 
 // Note previously the UI param was used for mobile, but it's going to be responsive

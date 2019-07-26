@@ -103,13 +103,13 @@ br.metadata = [{
 ];
 // This toggles the mobile drawer (not shown in 'embed' mode)
 br.enableMobileNav = true;
-br.mobileNavTitle = 'BookReader demo';
+br.mobileNavTitle = 'Subjpop Ranking';
 
 // Override the path used to find UI images
 br.imagesBaseURL = '/js/BookReader/images/';
 
 br.getEmbedCode = function (frameWidth, frameHeight, viewParams) {
-    return "Embed code not supported in bookreader demo.";
+    return "Embed code not supported in subjpop ranking.";
 };
 
 // Note previously the UI param was used for mobile, but it's going to be responsive
