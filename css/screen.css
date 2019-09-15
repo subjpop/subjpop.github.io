@@ -292,7 +292,8 @@ a {
   text-align: center;
   padding: 50px 0 0 0; }
 
-.button, input[type="submit"] {
+.button,
+input[type="submit"] {
   background: #fff;
   cursor: pointer;
   border: 1px solid #666;
@@ -303,10 +304,12 @@ a {
   align-items: flex-end;
   margin: 0;
   font-size: .8em; }
-  .button:hover, input[type="submit"]:hover {
+  .button:hover,
+  input[type="submit"]:hover {
     background: #000;
     color: #fff; }
-  .button:focus, input[type="submit"]:focus {
+  .button:focus,
+  input[type="submit"]:focus {
     outline: none; }
 
 .button {
@@ -321,7 +324,9 @@ input[type="submit"] {
   padding-top: 10px;
   padding-bottom: 10px; }
 
-input[type="text"], input[type="email"], textarea {
+input[type="text"],
+input[type="email"],
+textarea {
   display: block;
   width: 100%;
   font-size: 1.1em;
@@ -329,7 +334,9 @@ input[type="text"], input[type="email"], textarea {
   box-sizing: border-box;
   border: 1px solid #666;
   resize: none; }
-  input[type="text"]:focus, input[type="email"]:focus, textarea:focus {
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  textarea:focus {
     outline: 2px solid #333; }
 
 textarea {
@@ -381,6 +388,9 @@ select {
   outline: 1px solid #000; }
   select:focus {
     outline: 2px solid #333; }
+
+form div {
+  margin-bottom: 1vh; }
 
 nav {
   position: fixed;
