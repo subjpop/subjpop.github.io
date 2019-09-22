@@ -22,18 +22,18 @@
 	<link rel="apple-touch-startup-image" href="/images/favicon.png">
 	<link rel="icon" type="image/png" href="/images/favicon.png">
 	<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Not Found | SUBJPOP</title>
+<title>Stats | SUBJPOP</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Not Found" />
+<meta property="og:title" content="Stats" />
 <meta name="author" content="Yifan" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances" />
 <meta property="og:description" content="SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances" />
-<link rel="canonical" href="https://subjpop.com/404.html" />
-<meta property="og:url" content="https://subjpop.com/404.html" />
+<link rel="canonical" href="https://subjpop.com/stats.html" />
+<meta property="og:url" content="https://subjpop.com/stats.html" />
 <meta property="og:site_name" content="SUBJPOP" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://subjpop.com/siteicon.png"},"name":"Yifan"},"url":"https://subjpop.com/404.html","author":{"@type":"Person","name":"Yifan"},"headline":"Not Found","description":"SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances","@type":"WebPage","@context":"https://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://subjpop.com/siteicon.png"},"name":"Yifan"},"url":"https://subjpop.com/stats.html","author":{"@type":"Person","name":"Yifan"},"headline":"Stats","description":"SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 	<link type="application/atom+xml" rel="alternate" href="https://subjpop.com/feed.xml" title="SUBJPOP" />
@@ -80,11 +80,51 @@
 			</a>
 		</header>
 		<div class="container main-content">
-			<section class="content"><h1>This page could not be found</h1>
+			<section class="content"><div id="visual">
+</div>
 
-<h2>
-    <img src="https://i.pinimg.com/originals/16/c3/0d/16c30d5e35512c7e63aa99a4fdc4dad5.gif" alt="vapourware infinite streeview loop" height="420" width="420">
-</h2></section>
+<script type="module">
+
+  // NOTEBOOK CONFIGURATION
+  import notebook from "https://api.observablehq.com/@ivanwoo/subjpop-program-data-viz-nested.js";
+
+  const target = document.querySelector("#visual");
+  const renders = {
+    "viewof groupKey": "groupKey",
+    "viewof metric": "metric",
+    "chart": "div.fullwidth",
+  };
+
+
+  // BOILERPLATE
+  import {Inspector, Runtime} from "https://unpkg.com/@observablehq/notebook-runtime@2?module";
+  for (let i in renders) {
+    let s = renders[i], a = s.match(/^\w+/);
+    if (a) {
+      renders[i] = document.createElement(a[0]);
+      target.appendChild(renders[i]);
+      if (a = s.match(/\.(\w+)$/))
+        renders[i].className = a[1]; 
+    }
+    else
+      renders[i] = document.querySelector(renders[i]);
+  }
+  Runtime.load(notebook, (variable) => {
+    if (renders[variable.name]) {
+      return new Inspector(renders[variable.name]);
+    } else {
+      // return true; // uncomment to run hidden cells
+    }
+  });
+</script>
+
+<style>
+  /* https://css-tricks.com/full-width-containers-limited-width-parents/ */
+  .fullwidth {
+    position: relative;
+    margin-top: 4vh;
+  }
+</style></section>
 			<aside class="sidebar">
 	<div class="author">
 		
