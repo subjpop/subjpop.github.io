@@ -23,7 +23,7 @@
 	<link rel="icon" type="image/png" href="/images/favicon.png">
 	<!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Stats | SUBJPOP</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="Stats" />
 <meta name="author" content="Yifan" />
 <meta property="og:locale" content="en_US" />
@@ -33,7 +33,7 @@
 <meta property="og:url" content="https://subjpop.com/stats.html" />
 <meta property="og:site_name" content="SUBJPOP" />
 <script type="application/ld+json">
-{"headline":"Stats","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://subjpop.com/siteicon.png"},"name":"Yifan"},"author":{"@type":"Person","name":"Yifan"},"url":"https://subjpop.com/stats.html","description":"SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances","@type":"WebPage","@context":"https://schema.org"}</script>
+{"@type":"WebPage","headline":"Stats","url":"https://subjpop.com/stats.html","author":{"@type":"Person","name":"Yifan"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://subjpop.com/siteicon.png"},"name":"Yifan"},"description":"SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 	<link type="application/atom+xml" rel="alternate" href="https://subjpop.com/feed.xml" title="SUBJPOP" />
@@ -80,51 +80,26 @@
 			</a>
 		</header>
 		<div class="container main-content">
-			<section class="content"><div id="visual">
+			<section class="content"><!-- https://observablehq.com/@jashkenas/handy-embed-code-generator -->
+<div id="observablehq-bb62ba0e">
+  <div class="observablehq-viewof-groupKey"></div>
+  <div class="observablehq-viewof-metric"></div>
+  <div class="observablehq-chart"></div>
+  <div style="overflow: hidden;"><a style="display: block; float:right;"
+      href="https://observablehq.com/@ivanwoo/subjpop-program-data-viz-nested"><object type="image/svg+xml"
+        style="pointer-events: none;" width=180 height=22
+        data="https://static.observableusercontent.com/files/c3fab254a006f1a3a1f9f63aba8ab1460db4752529036b9962950bde0ec195bab823daa6b278b1c3401e545b3bd640ddfdcad805cf9859af218cb2b9fed4ddf0"></object></a>
+  </div>
 </div>
-
 <script type="module">
-
-  // NOTEBOOK CONFIGURATION
-  import notebook from "https://api.observablehq.com/@ivanwoo/subjpop-program-data-viz-nested.js";
-
-  const target = document.querySelector("#visual");
-  const renders = {
-    "viewof groupKey": "groupKey",
-    "viewof metric": "metric",
-    "chart": "div.fullwidth",
-  };
-
-
-  // BOILERPLATE
   import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-  for (let i in renders) {
-    let s = renders[i], a = s.match(/^\w+/);
-    if (a) {
-      renders[i] = document.createElement(a[0]);
-      target.appendChild(renders[i]);
-      if (a = s.match(/\.(\w+)$/))
-        renders[i].className = a[1]; 
-    }
-    else
-      renders[i] = document.querySelector(renders[i]);
-  }
-  Runtime.load(notebook, (variable) => {
-    if (renders[variable.name]) {
-      return new Inspector(renders[variable.name]);
-    } else {
-      // return true; // uncomment to run hidden cells
-    }
+  import define from "https://api.observablehq.com/@ivanwoo/subjpop-program-data-viz-nested.js?v=3";
+  (new Runtime).module(define, name => {
+    if (name === "viewof groupKey") return Inspector.into("#observablehq-bb62ba0e .observablehq-viewof-groupKey")();
+    if (name === "viewof metric") return Inspector.into("#observablehq-bb62ba0e .observablehq-viewof-metric")();
+    if (name === "chart") return Inspector.into("#observablehq-bb62ba0e .observablehq-chart")();
   });
-</script>
-
-<style>
-  /* https://css-tricks.com/full-width-containers-limited-width-parents/ */
-  .fullwidth {
-    position: relative;
-    margin-top: 4vh;
-  }
-</style></section>
+</script></section>
 			<aside class="sidebar">
 	<div class="author">
 		
