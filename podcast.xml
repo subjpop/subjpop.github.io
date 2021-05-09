@@ -5,8 +5,8 @@
     <itunes:author>SUBJPOP</itunes:author>
     <copyright></copyright>
     <language>zh-cn</language>
-    <pubDate>Fri, 07 May 2021 02:14:09 +0000</pubDate>
-    <lastBuildDate>Fri, 07 May 2021 02:14:09 +0000</lastBuildDate>
+    <pubDate>Sun, 09 May 2021 13:45:25 +0000</pubDate>
+    <lastBuildDate>Sun, 09 May 2021 13:45:25 +0000</lastBuildDate>
     <itunes:category text="Music">
         
       <itunes:category text="Music Commentary"/>
@@ -178,7 +178,7 @@
       <guid>https://subjpop.com/s02/2021/05/05/2021-new-releases-1.html</guid>
       <link>https://subjpop.com/s02/2021/05/05/2021-new-releases-1.html</link>
       <category>Music</category>
-      <enclosure length="3056" url="https://archive.org/download/subjpop_s02e03/s02e03.mp3" type="audio/mpeg"/>
+      <enclosure length="3056" url="https://media.githubusercontent.com/media/subjpop/podcast-hosting/master/s2/s02e03.mp3" type="audio/mpeg"/>
     </item>
     
     <item>
