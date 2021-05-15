@@ -10,7 +10,7 @@ let spritesheet;
 let textures = [];
 
 function preload() {
-  spritesheet = loadImage('/images/petals4.png');
+  spritesheet = loadImage("/images/petals4.png");
 }
 
 function windowResized() {

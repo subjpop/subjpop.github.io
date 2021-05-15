@@ -3,11 +3,10 @@ function getRandomSize() {
   // return constrain(r * 32, 2, 32);
   // let r = randomGaussian() * 2;
   // return constrain(abs(r * r), 2, 36);
-  return random(22, 32)
+  return random(22, 32);
 }
 
 class SakuraPetal {
-
   constructor(sx, sy, img) {
     let x = sx || random(width);
     let y = sy || random(-100, -10);
@@ -16,7 +15,7 @@ class SakuraPetal {
     this.vel = createVector(0, 0);
     this.acc = createVector();
     this.angle = random(TWO_PI);
-    this.dir = (random(1) > 0.5) ? 1 : -1;
+    this.dir = random(1) > 0.5 ? 1 : -1;
     this.xOff = 0;
     this.r = getRandomSize();
   }
@@ -61,7 +60,7 @@ class SakuraPetal {
       this.pos.x = -this.r;
     }
 
-    this.angle += this.dir * this.vel.mag() / 200;
+    this.angle += (this.dir * this.vel.mag()) / 200;
   }
 
   render() {
@@ -74,8 +73,6 @@ class SakuraPetal {
     // strokeWeight(this.r);
     // point(0, 0);
     pop();
-
-
   }
 
   // offScreen() {
