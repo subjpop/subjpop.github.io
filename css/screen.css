@@ -48,6 +48,8 @@ a { text-decoration: none; color: black; }
 
 @media (min-width: 900px) { .main-content { display: flex; } }
 
+.content { width: 100%; max-width: 780px; }
+
 @media (min-width: 900px) { .content { flex: 1; } }
 
 .post audio { width: 100%; }
