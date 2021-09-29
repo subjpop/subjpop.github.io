@@ -1,4 +1,5 @@
-#BRtoolbar .embed, .print {
+#BRtoolbar .embed,
+.print {
     display: none;
 }
 
