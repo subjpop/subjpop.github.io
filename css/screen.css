@@ -224,7 +224,7 @@ nav a:hover { color: #000; }
 
 .sidebar .author p { padding: 0; margin: 0; }
 
-.sidebar .author img { width: 200px; border-radius: 200px; margin: 0 0 10px 0; transition: all 1.9s ease-in-out; }
+.sidebar .author img { width: 200px; border-radius: 10px; margin: 0 0 10px 0; transition: all 1.9s ease-in-out; }
 
 .sidebar .author img:hover { filter: hue-rotate(360deg); }
 
