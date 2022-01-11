@@ -5,8 +5,8 @@
     <itunes:author>SUBJPOP</itunes:author>
     <copyright></copyright>
     <language>zh-cn</language>
-    <pubDate>Sat, 08 Jan 2022 20:13:07 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Jan 2022 20:13:07 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jan 2022 04:03:01 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jan 2022 04:03:01 +0000</lastBuildDate>
     <itunes:category text="Music">
         
       <itunes:category text="Music Commentary"/>
@@ -19,8 +19,10 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://subjpop.com/images/podcast-artwork.jpg"/>
     <itunes:subtitle>日本流行音乐综合研讨会</itunes:subtitle>
-    <description>日本流行音乐综合研讨会</description>
-    <itunes:summary>日本流行音乐综合研讨会</itunes:summary>
+    <description>日本流行音乐综合研讨会
+</description>
+    <itunes:summary>日本流行音乐综合研讨会
+</itunes:summary>
     <itunes:owner>
       <itunes:name>Yifan</itunes:name>
       <itunes:email>subjpop@gmail.com</itunes:email>
