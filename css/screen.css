@@ -278,7 +278,7 @@ nav a:hover { color: #000; }
 
 .episodes .episode a:hover { background: none; }
 
-.book-wrapper { margin-top: 20px; }
+.book-wrapper { margin-top: 20px; display: flex; flex-direction: column; gap: 60px; }
 
 .book-container { display: flex; align-items: center; justify-content: center; perspective: 600px; }
 
