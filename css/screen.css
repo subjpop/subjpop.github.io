@@ -526,6 +526,16 @@ nav a:hover {
   color: #000;
 }
 
+.search .container {
+  display: flex;
+  gap: 10px;
+  height: 45px;
+}
+.search .container .button {
+  justify-content: center;
+  align-items: center;
+}
+
 .sidebar {
   width: 300px;
   padding: 70px 0 0 0;
