@@ -5,8 +5,8 @@
     <itunes:author>SUBJPOP</itunes:author>
     <copyright></copyright>
     <language>zh-cn</language>
-    <pubDate>Thu, 06 Aug 2026 23:45:01 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Aug 2026 23:45:01 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 23:56:52 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:56:52 +0000</lastBuildDate>
     <itunes:category text="Music">
         
       <itunes:category text="Music Commentary"/>
@@ -29,6 +29,45 @@
     </itunes:owner>
     <generator>Jekyll v4.3.2</generator>
 
+    
+    <item>
+      <title>Vol. 61 十周年复活特集</title>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>mimida</itunes:author>
+      <itunes:duration>4052</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary><![CDATA[
+      
+      
+        <p>无AI纯人工手写文案：回来了。</p>
+
+<p>SUBJPOP是一档专门介绍日本流行音乐的播客节目。2016年开播。</p>
+
+      
+      <a href="https://subjpop.com/new%20releases/2026/08/06/vol-61.html">
+        <img src="https://subjpop.com/images/banners/61.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>耳田 a.k.a. mimida </li> </ul>]]></itunes:summary>
+      <description><![CDATA[
+      
+      
+        <p>无AI纯人工手写文案：回来了。</p>
+
+<p>SUBJPOP是一档专门介绍日本流行音乐的播客节目。2016年开播。</p>
+
+      
+      <a href="https://subjpop.com/new%20releases/2026/08/06/vol-61.html">
+        <img src="https://subjpop.com/images/banners/61.jpg">
+      </a>
+      <p>主播</p>
+      <ul> <li>耳田 a.k.a. mimida </li> </ul>]]></description>
+      <guid>https://subjpop.com/new%20releases/2026/08/06/vol-61.html</guid>
+      <link>https://subjpop.com/new%20releases/2026/08/06/vol-61.html</link>
+      <category>Music</category>
+      <enclosure length="4052" url="https://jt.ximalaya.com//GKwRIDoOSPjAAfSTmATCd52J.m4a?channel=rss&amp;album_id=49373071&amp;track_id=1004798444&amp;uid=321595184&amp;jt=https://aod.cos.tx.xmcdn.com/storages/492b-audiofreehighqps/B9/01/GKwRIDoOSPjAAfSTmATCd52J.m4a" type="audio/mpeg"/>
+    </item>
     
     <item>
       <title>如何阅读坂本龙一（下）</title>
