@@ -113,13 +113,13 @@ a {
   margin: 0 auto;
 }
 
-.main-content {
-  padding: 0 30px 50px 30px;
-}
 @media (min-width: 900px) {
   .main-content {
     display: flex;
   }
+}
+.main-content {
+  padding: 0 30px 50px 30px;
 }
 
 .content {
@@ -607,11 +607,11 @@ nav a:hover {
   padding-left: 15px;
   padding-top: 23px;
 }
-.sidebar .apple-music {
-  margin-bottom: 10px;
-}
 .sidebar .apple-music .shadow-box {
   border-radius: 10px;
+}
+.sidebar .apple-music {
+  margin-bottom: 10px;
 }
 .sidebar .spotify-playlist .shadow-box {
   border-radius: 10px;
